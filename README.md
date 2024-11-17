@@ -1,5 +1,5 @@
 <h1>Gruppens loggbok</h1>
-<h2>13/11 2024</h2>
+<h2>14/11 2024</h2>
 Första mötet med gruppen, vi kom fram till ett gemensamt gruppkontrakt med olika förhållningsregler som passar oss.
 Melvin blev scrum master och skapade repo och bjöd in oss andra i det.
 
