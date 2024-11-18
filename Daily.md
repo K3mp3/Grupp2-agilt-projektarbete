@@ -18,6 +18,12 @@ I nuläget har alla i uppgift att göra sina egna Tasks inför sin egna del av h
 På  måndag återkopplar vi och gör upp en ny plan.
 
 <h2>18/11 2024</h2>
+<strong>Backlog:</strong>
+![image](https://github.com/user-attachments/assets/70c89ff7-ab81-4cd6-aaaa-564078d187d1)
+
+<strong>Roadmap:</strong>
+![image](https://github.com/user-attachments/assets/7c7a86de-c098-4421-ac1a-3b861a411d96)
+
 <ul>
   <li>Melvin: I fredags arbetate jag tillsammans med de andra i gruppen för att ta fram en wireframe samt lägga in de första tasksen. Idag ska jag tillsammans med gruppen bryta upp projektet till fler tasks.</li>
   <li>Niklas: I fredags arbetate jag tillsammans med de andra i gruppen för att ta fram en wireframe samt lägga in de första tasksen. Idag ska jag tillsammans med gruppen bryta upp projektet till fler tasks.</li>
