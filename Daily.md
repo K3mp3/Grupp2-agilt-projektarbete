@@ -28,7 +28,7 @@ På  måndag återkopplar vi och gör upp en ny plan.
   <li>Melvin: I fredags arbetate jag tillsammans med de andra i gruppen för att ta fram en wireframe samt lägga in de första tasksen. Idag ska jag tillsammans med gruppen bryta upp projektet till fler tasks.</li>
   <li>Niklas: I fredags arbetate jag tillsammans med de andra i gruppen för att ta fram en wireframe samt lägga in de första tasksen. Idag ska jag tillsammans med gruppen bryta upp projektet till fler tasks.</li>
   <li>Rita: I fredags arbetate jag tillsammans med de andra i gruppen för att ta fram en wireframe samt lägga in de första tasksen. Idag ska jag tillsammans med gruppen bryta upp projektet till fler tasks.</li>
-  <li>Ella: I fredags arbetate jag tillsammans med de andra i gruppen för att ta fram en wireframe samt lägga in de första tasksen. Idag ska jag tillsammans med gruppen bryta upp projektet till fler tasks.</li>
+  <li>Ella: Vi började projektet i fredags med wireframe framtagen tillsammans, vi delade upp arbetet i fyra tydliga delar, och vi började lägga till tasks i vårt gemensamma Github Project. Vi kom överens om att addera så många tasks vi kan komma på från att ha jobbat på wireframen och skulle göra det lagom tills nästa daily. </li>
 </ul>
 
 
