@@ -18,7 +18,7 @@ I nuläget har alla i uppgift att göra sina egna Tasks inför sin egna del av h
 På  måndag återkopplar vi och gör upp en ny plan.
 
 <h2>18/11 2024</h2>
-- Melvin: I fredags arbetate jag tillsammans med de andra i gruppen för att ta fram en wireframe samt lägga in de första tasksen. Idag ska jag tillsammans med gruppen bryta upp projektet till fler tasks.  
-- Niklas: I fredags arbetate jag tillsammans med de andra i gruppen för att ta fram en wireframe samt lägga in de första tasksen. Idag ska jag tillsammans med gruppen bryta upp projektet till fler tasks.  
-- Rita: I fredags arbetate jag tillsammans med de andra i gruppen för att ta fram en wireframe samt lägga in de första tasksen. Idag ska jag tillsammans med gruppen bryta upp projektet till fler tasks.  
-- Ella: I fredags arbetate jag tillsammans med de andra i gruppen för att ta fram en wireframe samt lägga in de första tasksen. Idag ska jag tillsammans med gruppen bryta upp projektet till fler tasks.  
+- Melvin: I fredags arbetate jag tillsammans med de andra i gruppen för att ta fram en wireframe samt lägga in de första tasksen. Idag ska jag tillsammans med gruppen bryta upp projektet till fler tasks.<br>
+- Niklas: I fredags arbetate jag tillsammans med de andra i gruppen för att ta fram en wireframe samt lägga in de första tasksen. Idag ska jag tillsammans med gruppen bryta upp projektet till fler tasks.<br> 
+- Rita: I fredags arbetate jag tillsammans med de andra i gruppen för att ta fram en wireframe samt lägga in de första tasksen. Idag ska jag tillsammans med gruppen bryta upp projektet till fler tasks.<br>  
+- Ella: I fredags arbetate jag tillsammans med de andra i gruppen för att ta fram en wireframe samt lägga in de första tasksen. Idag ska jag tillsammans med gruppen bryta upp projektet till fler tasks.<br>  
