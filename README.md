@@ -1,1 +1,1 @@
-Läs commitments och logg-filen för gruppkontrakt samt loggbok för det här projektet!
+Läs commitments och logg-filen för gruppkontrakt samt daily för det här projektet!
