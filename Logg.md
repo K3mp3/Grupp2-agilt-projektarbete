@@ -16,3 +16,9 @@ Idén till vår gemensamma hemsida är att vi gör en startsida och sen fyra des
 Vi beslutade att alla var för sig ska skapa Tasks i Github Projects (Ella skapade och gjorde de andra till admin).
 I nuläget har alla i uppgift att göra sina egna Tasks inför sin egna del av hemsidan.
 På  måndag återkopplar vi och gör upp en ny plan.
+
+<h2>18/11 2024</h2>
+- Melvin: I fredags arbetate jag tillsammans med de andra i gruppen för att ta fram en wireframe samt lägga in de första tasksen. Idag ska jag tillsammans med gruppen bryta upp projektet till fler tasks.  
+- Niklas: I fredags arbetate jag tillsammans med de andra i gruppen för att ta fram en wireframe samt lägga in de första tasksen. Idag ska jag tillsammans med gruppen bryta upp projektet till fler tasks.  
+- Rita: I fredags arbetate jag tillsammans med de andra i gruppen för att ta fram en wireframe samt lägga in de första tasksen. Idag ska jag tillsammans med gruppen bryta upp projektet till fler tasks.  
+- Ella: I fredags arbetate jag tillsammans med de andra i gruppen för att ta fram en wireframe samt lägga in de första tasksen. Idag ska jag tillsammans med gruppen bryta upp projektet till fler tasks.  
