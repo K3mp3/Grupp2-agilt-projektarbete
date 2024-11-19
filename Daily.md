@@ -31,7 +31,7 @@ På  måndag återkopplar vi och gör upp en ny plan.
   <li>Ella: Vi började projektet i fredags med wireframe framtagen tillsammans, vi delade upp arbetet i fyra tydliga delar, och vi började lägga till tasks i vårt gemensamma Github Project. Vi kom överens om att addera så många tasks vi kan komma på från att ha jobbat på wireframen och skulle göra det lagom tills nästa daily. </li>
 </ul>
 
-19/10 2024
+<h2>19/10 2024</h2>
 <strong>Backlog</strong>
 ![image](https://github.com/user-attachments/assets/9217a032-e4fc-4c9b-9330-ae57e9e6b4d1)
 
