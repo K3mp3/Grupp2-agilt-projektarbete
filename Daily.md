@@ -42,7 +42,7 @@ På  måndag återkopplar vi och gör upp en ny plan.
 
 <ul>
   <li>Ella: Vi diskuterade feedback från Maria angående hur vi kan förbättra arbetet i nuläget, och hon hade föreslagit en column som hette "aktiv sprint". Melvin informerade om att "roadmap" är ett sätt att rapportera vad som ska ingå i varje sprint, och Rita informerade om att varje sprint ska vara en vecka långa. Vi kom överens om att göra nav-bar och header denna vecka, och tillsammans i möten.</li>
-  <li>Melvin: Igår gick jag tillsammans gruppen igenom vår backlog för att bryta ned projektet i tasks. Idag skapade vi tillsammans en roadmap för första sprinten och ska även påbörja utvecklandet av en navbar</li>
+  <li>Melvin: Igår gick jag tillsammans med gruppen igenom vår backlog för att bryta ned projektet i tasks. Idag skapade vi tillsammans en roadmap för första sprinten och ska även påbörja utvecklandet av en navbar</li>
   <li>Niklas</li>
   <li>Rita</li>
 </ul>
