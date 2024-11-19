@@ -31,4 +31,11 @@ På  måndag återkopplar vi och gör upp en ny plan.
   <li>Ella: Vi började projektet i fredags med wireframe framtagen tillsammans, vi delade upp arbetet i fyra tydliga delar, och vi började lägga till tasks i vårt gemensamma Github Project. Vi kom överens om att addera så många tasks vi kan komma på från att ha jobbat på wireframen och skulle göra det lagom tills nästa daily. </li>
 </ul>
 
+19/10 2024
+<ul>
+  <li>Ella: Vi diskuterade feedback från Maria angående hur vi kan förbättra arbetet i nuläget, och hon hade föreslagit en column som hette "aktiv sprint". Melvin informerade om att "roadmap" är ett sätt att rapportera vad som ska ingå i varje sprint, och Rita informerade om att varje sprint ska vara en vecka långa. Vi kom överens om att göra nav-bar och header denna vecka, och tillsammans i möten.</li>
+  <li>Melvin</li>
+  <li>Niklas</li>
+  <li>Rita</li>
+</ul>
 
