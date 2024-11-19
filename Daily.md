@@ -32,9 +32,17 @@ På  måndag återkopplar vi och gör upp en ny plan.
 </ul>
 
 19/10 2024
+<strong>Backlog</strong>
+![image](https://github.com/user-attachments/assets/9217a032-e4fc-4c9b-9330-ae57e9e6b4d1)
+
+
+<strong>Roadmap</strong>
+![image](https://github.com/user-attachments/assets/3b98fbfe-b5f7-4b67-af05-ade3852b56ed)
+
+
 <ul>
   <li>Ella: Vi diskuterade feedback från Maria angående hur vi kan förbättra arbetet i nuläget, och hon hade föreslagit en column som hette "aktiv sprint". Melvin informerade om att "roadmap" är ett sätt att rapportera vad som ska ingå i varje sprint, och Rita informerade om att varje sprint ska vara en vecka långa. Vi kom överens om att göra nav-bar och header denna vecka, och tillsammans i möten.</li>
-  <li>Melvin</li>
+  <li>Melvin: Igår gick jag tillsammans gruppen igenom vår backlog för att bryta ned projektet i tasks. Idag skapade vi tillsammans en roadmap för första sprinten och ska även påbörja utvecklandet av en navbar</li>
   <li>Niklas</li>
   <li>Rita</li>
 </ul>
