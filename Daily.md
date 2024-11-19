@@ -37,7 +37,7 @@ På  måndag återkopplar vi och gör upp en ny plan.
 
 
 <strong>Roadmap</strong>
-![image](https://github.com/user-attachments/assets/3b98fbfe-b5f7-4b67-af05-ade3852b56ed)
+![image](https://github.com/user-attachments/assets/e4174961-04f2-4a77-a13e-0b5ec81be159)
 
 
 <ul>
