@@ -59,5 +59,5 @@ På  måndag återkopplar vi och gör upp en ny plan.
   <li>Melvin: Igår gick vi i gruppen tillsammans genom vår backlog och planerade två sprintar samt valde ut ett färgtema och fonter. Idag ska vi tillsammans utveckla en navbar för webbsidan.</li>
   <li>Ella: Igår planerade vi våra sprintar och idag gjorde vi tillsammans en navbar utefter wireframe som vi tagit fram tillsammans i Figma. Melvin ledde arbetet och Ella delade skärm och kodade medans gruppen vägledde. Slutresultatet blev en nav-bar med logga, meny och registeringsknapp, med lite färg-design dessutom.</li>
   <li>Niklas: Under gårdagen ägnade vi oss åt att planera våra sprintar. Idag tog vi oss an uppgiften att bygga en navbar baserad på den wireframe vi gemensamt skapade i Figma. Melvin tog rollen som ledare för arbetet, medan Ella delade sin skärm och ansvarade för kodningen med stöd och input från resten av gruppen. Resultatet blev en navigeringsbar med logotyp, meny och en registreringsknapp, kompletterat med ett genomtänkt färgtema.</li>
-  <li>Rita</li>
+  <li>Rita: Rita: Igår planerade vi våra sprintar. Idag skapade vi en nav bar med logga, länkar och registreringsknapp. Ella delade skärm och gruppen hjälpte till.</li>
 </ul>
