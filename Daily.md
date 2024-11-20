@@ -42,9 +42,9 @@ På  måndag återkopplar vi och gör upp en ny plan.
 
 <ul>
   <li>Ella: Igår pratade vi om att addera fler tasks i vårt Github Project, och tills idag hade vi alla lagt in så många tasks relaterade till projektet vi kunde komma på. Vi diskuterade feedback från Maria angående hur vi kan förbättra arbetet i nuläget, och hon hade föreslagit en column som hette "aktiv sprint". Melvin informerade om att "roadmap" är ett sätt att rapportera vad som ska ingå i varje sprint, och Rita informerade om att varje sprint ska vara unjefär en vecka långa. Vi kom överens om att göra nav-bar och header denna vecka, och tillsammans i möten. Melvin gjorde medans gruppen såg över planeringen i Github Projects över denna sprint och kommande sprinter. Vi bokade in daily imorn samt möte kl 9-11 där vi ska tillsammans programmera nav bar. Vi uppdaterade Github Project vilka tasks som är färdiga, och vilka som är pågående. </li>
-  <li>Melvin: Igår gick jag tillsammans med gruppen igenom vår backlog för att bryta ned projektet i tasks. Idag skapade vi tillsammans en roadmap för första sprinten och ska även påbörja utvecklandet av en navbar</li>
+  <li>Melvin: Igår gick jag tillsammans med gruppen igenom vår backlog för att bryta ned projektet i tasks. Idag skapade vi tillsammans en roadmap för första sprinten och ska även påbörja utvecklandet av en navbar.</li>
   <li>Niklas: Igår arbetade gruppen med att strukturera vår backlog genom att dela upp projektet i mindre uppgifter. Idag skapade vi en roadmap för den första sprinten, och imorgon planerar vi att börja utveckla en navbar.</li>
-  <li>Rita: Rita: Lärt mig att man kan använda roadmap till att strukturera sprint. Planerat vad som ska bli klart denna vecka.Bestämde om att vi gör en nav och header alla tillsammans imorgon</li>
+  <li>Rita: Lärt mig att man kan använda roadmap till att strukturera sprint. Planerat vad som ska bli klart denna vecka.Bestämde om att vi gör en nav och header alla tillsammans imorgon.</li>
 </ul>
 
 <h2>20/11 2024</h2>
@@ -52,7 +52,7 @@ På  måndag återkopplar vi och gör upp en ny plan.
 ![image](https://github.com/user-attachments/assets/7fb8aadf-afdd-48cc-b535-6827a7e83e98)
 
 <ul>
-  <li>Melvin</li>
+  <li>Melvin: Igår gick vi i gruppen tillsammans genom vår backlog och planerade två sprintar samt valde ut ett färgtema och fonter. Idag ska vi tillsammans utveckla en navbar för webbsidan.</li>
   <li>Ella</li>
   <li>Niklas</li>
   <li>Rita</li>
