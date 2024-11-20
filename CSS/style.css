@@ -1,0 +1,19 @@
+
+body{
+    margin:0;
+    padding:0;
+    background-color:#0E0E0E;
+    color:#E8E8E8;
+}
+
+nav{
+    display:flex;
+    max-width:1400px;
+    margin:auto;
+    background-color:red;
+}
+
+ul{
+    display:flex;
+    
+}
