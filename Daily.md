@@ -31,12 +31,12 @@ På  måndag återkopplar vi och gör upp en ny plan.
   <li>Ella: Vi började projektet i fredags med wireframe framtagen tillsammans, vi delade upp arbetet i fyra tydliga delar, och vi började lägga till tasks i vårt gemensamma Github Project. Vi kom överens om att addera så många tasks vi kan komma på från att ha jobbat på wireframen och skulle göra det lagom tills nästa daily. </li>
 </ul>
 
-<h2>19/10 2024</h2>
-<strong>Backlog</strong>
+<h2>19/11 2024</h2>
+<strong>Backlog:</strong>
 ![image](https://github.com/user-attachments/assets/9217a032-e4fc-4c9b-9330-ae57e9e6b4d1)
 
 
-<strong>Roadmap</strong>
+<strong>Roadmap:</strong>
 ![image](https://github.com/user-attachments/assets/e4174961-04f2-4a77-a13e-0b5ec81be159)
 
 
@@ -47,3 +47,6 @@ På  måndag återkopplar vi och gör upp en ny plan.
   <li>Rita: Rita: Lärt mig att man kan använda roadmap till att strukturera sprint. Planerat vad som ska bli klart denna vecka.Bestämde om att vi gör en nav och header alla tillsammans imorgon</li>
 </ul>
 
+<h2>20/11 2024</h2>
+<strong>Backlog:</strong>
+![image](https://github.com/user-attachments/assets/7fb8aadf-afdd-48cc-b535-6827a7e83e98)
