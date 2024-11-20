@@ -50,3 +50,10 @@ På  måndag återkopplar vi och gör upp en ny plan.
 <h2>20/11 2024</h2>
 <strong>Backlog:</strong>
 ![image](https://github.com/user-attachments/assets/7fb8aadf-afdd-48cc-b535-6827a7e83e98)
+
+<ul>
+  <li>Melvin</li>
+  <li>Ella</li>
+  <li>Niklas</li>
+  <li>Rita</li>
+</ul>
