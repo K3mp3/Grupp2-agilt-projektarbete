@@ -63,6 +63,11 @@ På  måndag återkopplar vi och gör upp en ny plan.
 </ul>
 
 <h2>21/11 2024</h2>
+<strong>Backlog:</strong>
+![image](https://github.com/user-attachments/assets/ada2643c-c074-4a3f-83fe-3eaba7c022be)
+
+<strong>Roadmap:</strong>
+![image](https://github.com/user-attachments/assets/1cde9743-e125-45d9-921d-779205181883)
 
 <ul>
   <li>Melvin: Igår programmerade vi för första gången tillsammans genom mob programmering, vi började då med en navbar. Idag ska fortsätta med att göra en header.</li>
