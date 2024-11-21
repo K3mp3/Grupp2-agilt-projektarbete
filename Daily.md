@@ -66,7 +66,7 @@ På  måndag återkopplar vi och gör upp en ny plan.
 
 <ul>
   <li>Melvin: Igår programmerade vi för första gången tillsammans genom mob programmering, vi började då med en navbar. Idag ska fortsätta med att göra en header.</li>
-  <li>Ella: Igår planerade vi våra sprintar och idag gjorde vi tillsammans en navbar utefter wireframe som vi tagit fram tillsammans i Figma. Melvin ledde arbetet och Ella delade skärm och kodade medans gruppen vägledde. Slutresultatet blev en nav-bar med logga, meny och registeringsknapp, med lite färg-design dessutom.</li>
+  <li>Ella:Ella: Igår gjorde vi tillsammans en navbar, och idag ska vi göra liknande arbete med skärmledning och en som programmerar och resten navigerar. Vi ska skapa en header, Niklas ska dela skärm och programmera. Dessutom ska vi planera in att öva presentation tillsammans och vad vi ska säga.</li>
   <li>Niklas: Igår samarbetade hela teamet för att skapa en navigationsmeny. Ella tog rollen som programmerare och kodade strukturen, medan vi andra bidrog med idéer och instruktioner för att säkerställa att resultatet blev både funktionellt och visuellt tilltalande. Det var ett givande moment där allas insatser kom till användning och teamets samarbete fungerade väldigt bra.
 Idag fortsätter vi med utvecklingen av vår header. Planen är att skapa en registreringsruta där användare kan fylla i sitt namn och e-postadress. Fokus kommer att ligga på att få layouten att vara både estetiskt tilltalande och enkel att använda, samtidigt som vi säkerställer att funktionaliteten är fullt integrerad.</li>
   <li>Rita: Rita: Igår programmerade vi en navbar. Och idag fortsätter vi med header tillsammans i grupp.</li>
