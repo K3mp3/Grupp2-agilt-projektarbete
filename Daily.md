@@ -82,7 +82,7 @@ Idag fortsätter vi med utvecklingen av vår header. Planen är att skapa en reg
 ![image](https://github.com/user-attachments/assets/39efa22f-28c0-4db2-9a65-a07428e51e4c)
 
 <strong>Roadmap:</strong>
-![image](https://github.com/user-attachments/assets/78768b15-db52-4ce7-afd7-57caacb76186)
+![image](https://github.com/user-attachments/assets/571ab743-6dff-4cf4-ae33-e41e3a5f79b1)
 
 <ul>
   <li>Melvin: Igår programmerade vi en header genom att använda oss av mobprogrammering. Idag ska jag skriva ihop en text till intro delen för webbplatsen.</li>
