@@ -71,7 +71,7 @@ På  måndag återkopplar vi och gör upp en ny plan.
 
 <ul>
   <li>Melvin: Igår programmerade vi för första gången tillsammans genom mob programmering, vi började då med en navbar. Idag ska fortsätta med att göra en header.</li>
-  <li>Ella:Ella: Igår gjorde vi tillsammans en navbar, och idag ska vi göra liknande arbete med skärmledning och en som programmerar och resten navigerar. Vi ska skapa en header, Niklas ska dela skärm och programmera. Dessutom ska vi planera in att öva presentation tillsammans och vad vi ska säga.</li>
+  <li>Ella: Igår gjorde vi tillsammans en navbar, och idag ska vi göra liknande arbete med skärmledning och en som programmerar och resten navigerar. Vi ska skapa en header, Niklas ska dela skärm och programmera. Dessutom ska vi planera in att öva presentation tillsammans och vad vi ska säga.</li>
   <li>Niklas: Igår samarbetade hela teamet för att skapa en navigationsmeny. Ella tog rollen som programmerare och kodade strukturen, medan vi andra bidrog med idéer och instruktioner för att säkerställa att resultatet blev både funktionellt och visuellt tilltalande. Det var ett givande moment där allas insatser kom till användning och teamets samarbete fungerade väldigt bra.
 Idag fortsätter vi med utvecklingen av vår header. Planen är att skapa en registreringsruta där användare kan fylla i sitt namn och e-postadress. Fokus kommer att ligga på att få layouten att vara både estetiskt tilltalande och enkel att använda.</li>
   <li>Rita: Rita: Igår programmerade vi en navbar. Och idag fortsätter vi med header tillsammans i grupp.</li>
@@ -86,7 +86,7 @@ Idag fortsätter vi med utvecklingen av vår header. Planen är att skapa en reg
 
 <ul>
   <li>Melvin: Igår programmerade vi en header genom att använda oss av mobprogrammering. Idag ska jag skriva ihop en text till intro delen för webbplatsen.</li>
-  <li>Ella:</li>
+  <li>Ella: Igår gjorde vi en gemensam header, Niklas delade skärm och vi andra vägledde. Resultatet blev en snygg landing page med formulär. Idag ska vi fokusera på individuella arbeten efter att vi förberett en lite prensentation av vårt arbete hittills. Jag ska fokusera på att leta upp AI-bilder till min del av sidan.</li>
   <li>Rita:</li>
   <li>Niklas:</li>
 </ul>
