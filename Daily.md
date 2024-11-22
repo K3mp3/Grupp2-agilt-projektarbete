@@ -87,6 +87,6 @@ Idag fortsätter vi med utvecklingen av vår header. Planen är att skapa en reg
 <ul>
   <li>Melvin: Igår programmerade vi en header genom att använda oss av mobprogrammering. Idag ska jag skriva ihop en text till intro delen för webbplatsen.</li>
   <li>Ella: Igår gjorde vi en gemensam header, Niklas delade skärm och vi andra vägledde. Resultatet blev en snygg landing page med formulär. Idag ska vi fokusera på individuella arbeten efter att vi förberett en lite prensentation av vårt arbete hittills. Jag ska fokusera på att leta upp AI-bilder till min del av sidan.</li>
-  <li>Rita:</li>
+  <li>Rita:Igår gjorde vi klart en header. Niklas programmerade tillsammans med gruppen. Idag ska vi förbereda oss inför presentationen på måndag och skriva en text till intro delen för webbplatsen. Idag ska jag skriva klart texten till min del av sidan</li>
   <li>Niklas:</li>
 </ul>
