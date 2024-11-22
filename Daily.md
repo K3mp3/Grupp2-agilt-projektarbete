@@ -76,3 +76,17 @@ På  måndag återkopplar vi och gör upp en ny plan.
 Idag fortsätter vi med utvecklingen av vår header. Planen är att skapa en registreringsruta där användare kan fylla i sitt namn och e-postadress. Fokus kommer att ligga på att få layouten att vara både estetiskt tilltalande och enkel att använda.</li>
   <li>Rita: Rita: Igår programmerade vi en navbar. Och idag fortsätter vi med header tillsammans i grupp.</li>
 </ul>
+
+<h2>22/11 2024</h2>
+<strong>Backlog:</strong>
+![image](https://github.com/user-attachments/assets/39efa22f-28c0-4db2-9a65-a07428e51e4c)
+
+<strong>Roadmap:</strong>
+![image](https://github.com/user-attachments/assets/78768b15-db52-4ce7-afd7-57caacb76186)
+
+<ul>
+  <li>Melvin: Igår programmerade vi en header genom att använda oss av mobprogrammering. Idag ska jag skriva ihop en text till intro delen för webbplatsen.</li>
+  <li>Ella:</li>
+  <li>Rita:</li>
+  <li>Niklas:</li>
+</ul>
