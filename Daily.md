@@ -94,5 +94,14 @@ Idag fortsätter vi med utvecklingen av vår header. Planen är att skapa en reg
 <h2>25/11 2024</h2>
 <strong>Backlog:</strong>
 <img width="1136" alt="Screenshot 2024-11-25 at 14 06 17" src="https://github.com/user-attachments/assets/e0e20fa5-76a5-4086-90e3-f19a68e40d19">
+<img width="1714" alt="Screenshot 2024-11-25 at 14 09 24" src="https://github.com/user-attachments/assets/6718d0aa-4a65-4ae0-a1c8-9dc1159dd44e">
 
+<ul>
+  <li>Melvin:</li>
+  <li>Ella:</li>
+  <li>Rita:</li>
+  <li>Niklas: Under fredagen fokuserade jag på att leta passande bilder för min del av projektet. Jag hittade några som kan användas, men jag planerar att fortsätta leta fler idag för att komplettera det visuella innehållet.
+Idag har jag påbörjat att skriva texten som handlar om att lyfta fram innovativa möjligheter inom blockchain. Detta arbete kommer jag att fortsätta med imorgon, tisdag.</li>
+  
+</ul>
 
