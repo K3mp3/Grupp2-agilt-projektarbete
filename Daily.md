@@ -93,9 +93,11 @@ Idag fortsätter vi med utvecklingen av vår header. Planen är att skapa en reg
 
 <h2>25/11 2024</h2>
 <strong>Backlog:</strong>
-Vi valde Niklas till ny Scrum master så alla får prova på det en vecka var.
+
 <img width="1136" alt="Screenshot 2024-11-25 at 14 06 17" src="https://github.com/user-attachments/assets/e0e20fa5-76a5-4086-90e3-f19a68e40d19">
 <img width="1714" alt="Screenshot 2024-11-25 at 14 09 24" src="https://github.com/user-attachments/assets/6718d0aa-4a65-4ae0-a1c8-9dc1159dd44e">
+
+Vi valde Niklas till ny Scrum master så alla får prova på det en vecka var.
 
 <ul>
   <li>Melvin:I fredags arbetade jag med att ta fram texten till intro delen av webbsidan. Idag har vi gjort en retro för att kolla hur alla kände efter första sprinten och jag har även lagt in HTML-kod samt css för intro delen. </li>
