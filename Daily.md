@@ -99,7 +99,7 @@ Idag fortsätter vi med utvecklingen av vår header. Planen är att skapa en reg
 <ul>
   <li>Melvin:I fredags arbetade jag med att ta fram texten till intro delen av webbsidan. Idag har vi gjort en retro för att kolla hur alla kände efter första sprinten och jag har även lagt in HTML-kod samt css för intro delen. </li>
   <li>Ella: Under fredagen hittade jag alla bilder jag behövde till min del av sidan, samt skrivit klart texten som ska vara med på sidan och idag fokuserar jag på att skapa en branch och börja testa koden till min sektion.</li>
-  <li>Rita:</li>
+  <li>Rita:Idag har vi gjort en retro. Jag har hittat 3 bilder och 3 företag som använder blockchain teknologin i Sverige. Idag har jag skapat en bransch som jag ska jobba i som heter feature/företag-section. Ska börja programmera min del av sidan.</li>
   <li>Niklas: Under fredagen fokuserade jag på att leta passande bilder för min del av projektet. Jag hittade några som kan användas, men jag planerar att fortsätta leta fler idag för att komplettera det visuella innehållet.
 Idag har jag påbörjat att skriva texten som handlar om att lyfta fram innovativa möjligheter inom blockchain. Detta arbete kommer jag att fortsätta med imorgon, tisdag.</li>
   
