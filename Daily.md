@@ -90,3 +90,9 @@ Idag fortsätter vi med utvecklingen av vår header. Planen är att skapa en reg
   <li>Rita:Igår gjorde vi klart en header. Niklas programmerade tillsammans med gruppen. Idag ska vi förbereda oss inför presentationen på måndag och skriva en text till intro delen för webbplatsen. Idag ska jag skriva klart texten till min del av sidan</li>
   <li>Niklas:Igår fokuserade vi på att programmera vår header som en grupp. Jag ansvarade för kodningen medan resten av teamet bidrog med instruktioner. Idag planerar jag att leta efter passande bilder till min del av projektet för att komplettera designen och innehållet. På måndag kommer jag att börja skriva texten om framtiden inom blockchain, där jag vill lyfta fram innovativa möjligheter och dess potentiella inverkan på samhället.</li>
 </ul>
+
+<h2>25/11 2024</h2>
+<strong>Backlog:</strong>
+<img width="1136" alt="Screenshot 2024-11-25 at 14 06 17" src="https://github.com/user-attachments/assets/e0e20fa5-76a5-4086-90e3-f19a68e40d19">
+
+
