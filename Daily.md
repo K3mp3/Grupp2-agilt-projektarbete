@@ -97,7 +97,7 @@ Idag fortsätter vi med utvecklingen av vår header. Planen är att skapa en reg
 <img width="1714" alt="Screenshot 2024-11-25 at 14 09 24" src="https://github.com/user-attachments/assets/6718d0aa-4a65-4ae0-a1c8-9dc1159dd44e">
 
 <ul>
-  <li>Melvin:</li>
+  <li>Melvin:I fredags arbetade jag med att ta fram texten till intro delen av webbsidan. Idag har vi gjort en retro för att kolla hur alla kände efter första sprinten och jag har även lagt in HTML-kod samt css för intro delen. </li>
   <li>Ella:</li>
   <li>Rita:</li>
   <li>Niklas: Under fredagen fokuserade jag på att leta passande bilder för min del av projektet. Jag hittade några som kan användas, men jag planerar att fortsätta leta fler idag för att komplettera det visuella innehållet.
