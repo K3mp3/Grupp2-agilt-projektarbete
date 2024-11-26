@@ -108,3 +108,15 @@ Idag har vi tillsammans gjort en retro för att känna av hur allt går och jag 
   
 </ul>
 
+<h2>26/11 2024</h2>
+<strong>Backlog:</strong>
+<img width="1153" alt="Backlog 2024-11-26 at 12 54 37" src="https://github.com/user-attachments/assets/e983dff2-04e6-4bd5-8763-052e20b923c5">
+<img width="1616" alt="Road-map 2024-11-26 at 12 52 23" src="https://github.com/user-attachments/assets/311f144c-0716-43a4-82b2-0126e3d3dbd8">
+
+<ul>
+  <li>Niklas: Igår gjorde vi en retro och sen skrev jag klart det mesta av min text, idag kommer vi göra en footer tillsammans och sen kommer jag finjustera texten jag skrev igår.</li>
+  <li>Ella:</li>
+  <li>Melvin:</li>
+  <li>Rita:</li>
+</ul>
+
