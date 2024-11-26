@@ -1,44 +1,44 @@
-
-body{
-    margin:0;
-    padding:0;
-    background-color:#0E0E0E;
-    color:#E8E8E8;
-    font-family:'Inter', sans-serif;
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #0e0e0e;
+  color: #e8e8e8;
+  font-family: "Inter", sans-serif;
 }
 
-header{
-    display:flex;
-    flex-direction:column;
-    align-items:center;
-    position:relative;
-    min-width:100vw;
-    height:100vh;
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  min-width: 100vw;
+  height: 100vh;
 }
 
-.nav-wrapper{
-    padding:0 16px;
-    left:0;
-    top:0;
-    background-color: #0E0E0E;
-    display:flex;
-    align-items:center;
-    justify-content: space-between;
-    width:100%;
-    max-width:1400px;
-}
-nav{
-    display:flex;
-    min-width:100vw;
-    justify-content:center;
-    position:fixed;
-    border:solid 1px#E8E8E8;
+nav {
+  display: flex;
+  min-width: 100vw;
+  justify-content: center;
+  position: fixed;
+  border: solid 1px#E8E8E8;
+  background-color: #0e0e0e;
+  z-index: 1;
 }
 
+.nav-wrapper {
+  padding: 0 16px;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 1400px;
+}
 
-h1{
-   font-size:2.2rem;
-   background: -webkit-linear-gradient(#9324E8, #D73A6C);
+h1 {
+  font-size: 2.2rem;
+  background: -webkit-linear-gradient(#9324e8, #d73a6c);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-family: "Albert Sans", sans-serif;
@@ -46,59 +46,86 @@ h1{
   font-weight: 900;
 }
 
-ul{
-    display:flex;
-    list-style:none;
-    gap:36px;
-    font-family:'Inter', sans-serif;
-    font-size:1.2rem;
-    padding:0;
+.nav-ul {
+  display: flex;
+  list-style: none;
+  gap: 36px;
+  font-family: "Inter", sans-serif;
+  font-size: 1.2rem;
+  padding: 0;
 }
 
-button{
-    background-image: linear-gradient(#9324E8,#D73A6C);
-    padding:8px 16px;
-    border:none;
-    border-radius:20px;
-    font-size:1rem;
-    color:#E8E8E8;
-
+button {
+  background-image: linear-gradient(#9324e8, #d73a6c);
+  padding: 8px 16px;
+  border: none;
+  border-radius: 20px;
+  font-size: 1rem;
+  color: #e8e8e8;
 }
 
 .signup-form-parent {
-    display:flex;
-    flex-direction: column;
-    background-color: rgb(207, 200, 200);
-    position: absolute;
-    top: 50%; 
-    left: 50%; 
-    transform: translate(-50%, -50%);
-    padding:24px 98px;
-    color:#3c3838;
-    text-align: center;
-    border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(207, 200, 200);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 24px 98px;
+  color: #3c3838;
+  text-align: center;
+  border-radius: 10px;
 }
 
 .signup-form {
-    display:flex;
-    flex-direction: column;
-    padding:16px;
-    gap:20px;
-    min-width: 300px;
+  display: flex;
+  flex-direction: column;
+  padding: 16px;
+  gap: 20px;
+  min-width: 300px;
 }
 
 .signup-label {
-    display:flex;
-    flex-direction: column;
-    gap: 2px;
-    min-width: 100%;
-    text-align: left;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 100%;
+  text-align: left;
 }
 
 .signup-heading {
-    font-family: 'Albert Sans', sans-serif;
+  font-family: "Albert Sans", sans-serif;
 }
 
 input {
-    height: 20px;
+  height: 20px;
+}
+
+.intro-section {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  max-width: 700px;
+  margin: auto;
+}
+
+.intro-text {
+  padding: 4px;
+}
+
+img {
+  max-width: 700px;
+  margin-bottom: 16px;
+}
+
+.intro-ul-list {
+  width: 100%;
+}
+
+.intro-ul {
+  padding: 0 16px;
 }
