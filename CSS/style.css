@@ -102,3 +102,57 @@ button{
 input {
     height: 20px;
 }
+
+/*Niklas del*/
+
+.niklas {
+    border-top: 2px solid white;
+    padding-bottom: 5rem;
+}
+
+.intro-framtid {
+    display: flex;
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+    line-height: 1.5;
+}
+
+.rubrik-niklas {
+    text-align: center;
+    font-family: "Albert Sans", sans-serif;
+}
+
+.text1 {
+    padding-left: 2rem;
+    padding-right: 8rem;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.construction {
+    padding-right: 8rem;
+    padding-top: 3rem;
+}
+
+.text2 {
+    padding-left: 8rem;
+    padding-right: 3rem;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.security {
+    padding-left: 6rem;
+    padding-top: 3rem;
+}
+
+.gaming {
+    padding-right: 6rem;
+    padding-top: 3rem;
+}
+
+.intro-framtid {
+    text-align: center;
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
