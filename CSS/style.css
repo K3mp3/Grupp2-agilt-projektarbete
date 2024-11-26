@@ -102,3 +102,53 @@ button{
 input {
     height: 20px;
 }
+
+
+.usages-heading{
+    font-weight: bold;
+    font-family: 'Albert Sans', sans-serif;
+    position:absolute;
+    margin:0;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 1.5rem;
+    color: white;
+    background-color: black;
+    padding: 5px 10px;
+    z-index: 10; 
+}
+
+.usage-section{
+  align-items: center;
+  padding-top: 20px;
+    margin-top:50px;
+    position:relative;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+box-sizing: border-box; 
+}
+
+
+.usage-firstrow{
+display:flex;
+flex-direction: column;
+text-align: center
+}
+
+
+.usage-secondrow{
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+
+}
+
+.usage-thirdrow{
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+
+}
