@@ -103,39 +103,26 @@ input {
     height: 20px;
 }
 
-
-
-.usage-section{
-    width: 100vw;
-  align-items: center;
-    display: flex;
-    justify-content: space-between;
-}
-
 .usages-heading{
     margin:0;
     top: 0;
-    left: 50%;
     color: white;
 }
 
-.usage-firstrow{
+.usage-wrapper{
+    top:0;
+    position:relative;
+    min-width:100vw;
+    height:100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.usage-row{
 display:flex;
 flex-direction: column;
-text-align: center
-}
-
-
-.usage-secondrow{
-    display:flex;
-    flex-direction: column;
-    text-align: center;
-
-}
-
-.usage-thirdrow{
-    display:flex;
-    flex-direction: column;
-    text-align: center;
-
+text-align: center;
+max-width:30%;
 }
