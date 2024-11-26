@@ -1,77 +1,107 @@
 <!DOCTYPE html>
 <html lang="sv">
-  <head>
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Albert+Sans:ital@0;1&display=swap"
-      rel="stylesheet"
-    />
-    <meta charset="UTF-8" />
-    <title>HTML 5 Boilerplate</title>
-    <link rel="stylesheet" href="CSS/style.css" />
-  </head>
 
-  <body>
-    <header>
-      <nav>
-        <div class="nav-wrapper">
-          <h1>Blockify</h1>
-          <ul class="nav-ul">
-            <li>Hem</li>
-            <li>Om Blockchain</li>
-            <li>Användningsområden</li>
-            <li>Företag</li>
-            <li>Framtiden</li>
-          </ul>
-          <button type="button">Registrera</button>
-        </div>
-      </nav>
+<head>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Albert+Sans:ital@0;1&display=swap" rel="stylesheet" />
+  <meta charset="UTF-8" />
+  <title>HTML 5 Boilerplate</title>
+  <link rel="stylesheet" href="CSS/style.css" />
+</head>
 
-      <section class="signup-form-parent">
-        <h2 class="signup-heading">Registrera</h2>
-        <form class="signup-form">
-          <label class="signup-label" for="namn"
-            ><span> Namn </span>
-            <input name="namn" type="text" id="namn" placeholder="Namn"
-          /></label>
-          <label class="signup-label" for="email"
-            ><span> Email </span>
-            <input name="email" type="email" id="emai" placeholder="Email"
-          /></label>
-          <button type="submit">Registrera</button>
-        </form>
-      </section>
-    </header>
+<body>
+  <header>
+    <nav>
+      <div class="nav-wrapper">
+        <h1>Blockify</h1>
+        <ul class="nav-ul">
+          <li>Hem</li>
+          <li>Om Blockchain</li>
+          <li>Användningsområden</li>
+          <li>Företag</li>
+          <li>Framtiden</li>
+        </ul>
+        <button type="button">Registrera</button>
+      </div>
+    </nav>
 
-    <main>
-      <!-- Image from: https://www.freepik.com/free-vector/gradient-style-nft-concept_14064705.htm#fromView=search&page=1&position=28&uuid=7e52c27d-6ad4-4a2b-aae3-d9a4436852f5 -->
-      <section class="intro-section">
-        <img
-          src="./assets/img/blockchain_illustration.jpg"
-          alt="block som representerar olika produkter som blockchain kan anvnändas till."
-        />
-        <div class="intro-text">
-          <h2>Vad är blockchain?</h2>
-          <p class="">
-            Blockchain är en decentralicerad digital huvudbok som på ett säkert
-            sätt sparar data utspritt på ett nätvärk av datorer, kallat peers,
-            på ett sätt som gör datan transparent oföränderlig och
-            motståndskraftig mot manipulering. Varje ”block” innehållar data,
-            blocken kopplas sedan ihop i en kronologisk ”kedja”. Blockchain är
-            mest känt för dess viktiga roll inom kryptovalutor men har ävven
-            fler användningsområden.
-          </p>
-        </div>
-        <div class="intro-ul-list">
-          <strong>Blockchain kan användas för:</strong>
-          <ul class="intro-ul">
-            <li>Streaming</li>
-            <li>Finans kallat DeFi</li>
-            <li>Sjukvård</li>
-          </ul>
-        </div>
-      </section>
-    </main>
-  </body>
+    <section class="signup-form-parent">
+      <h2 class="signup-heading">Registrera</h2>
+      <form class="signup-form">
+        <label class="signup-label" for="namn"><span> Namn </span>
+          <input name="namn" type="text" id="namn" placeholder="Namn" /></label>
+        <label class="signup-label" for="email"><span> Email </span>
+          <input name="email" type="email" id="emai" placeholder="Email" /></label>
+        <button type="submit">Registrera</button>
+      </form>
+    </section>
+  </header>
+
+  <main>
+    <!-- Image from: https://www.freepik.com/free-vector/gradient-style-nft-concept_14064705.htm#fromView=search&page=1&position=28&uuid=7e52c27d-6ad4-4a2b-aae3-d9a4436852f5 -->
+    <section class="intro-section">
+      <img src="./assets/img/blockchain_illustration.jpg"
+        alt="block som representerar olika produkter som blockchain kan anvnändas till." />
+      <div class="intro-text">
+        <h2>Vad är blockchain?</h2>
+        <p class="">
+          Blockchain är en decentralicerad digital huvudbok som på ett säkert
+          sätt sparar data utspritt på ett nätvärk av datorer, kallat peers,
+          på ett sätt som gör datan transparent oföränderlig och
+          motståndskraftig mot manipulering. Varje ”block” innehållar data,
+          blocken kopplas sedan ihop i en kronologisk ”kedja”. Blockchain är
+          mest känt för dess viktiga roll inom kryptovalutor men har ävven
+          fler användningsområden.
+        </p>
+      </div>
+      <div class="intro-ul-list">
+        <strong>Blockchain kan användas för:</strong>
+        <ul class="intro-ul">
+          <li>Streaming</li>
+          <li>Finans kallat DeFi</li>
+          <li>Sjukvård</li>
+        </ul>
+      </div>
+    </section>
+  </main>
+  <footer>
+    <div class="footer-wrapper">
+    <div class="footer-list">
+      <h3>Kontakt</h3>
+      <ul class="footer-ul">
+        <li>LinkedIn</li>
+        <li>Discord</li>
+        <li>Telegram</li>
+        <li>Email</li>
+        <li>WhatsApp</li>
+      </ul>
+    </div>
+    <div class="footer-list">
+      <h3>FAQ</h3>
+      <ul class="footer-ul">
+        <li>Vilka är vi?</li>
+        <li>Vad gör vi?</li>
+        <li>Vart sitter vi?</li>
+        <li>Hur går jag med?</li>
+        <li>Kostar det något?</li>
+      </ul>
+    </div>
+    <div class="footer-list">
+      <h3>Investera</h3>
+      <ul class="footer-ul">
+        <li>Bitcoin</li>
+        <li>Ethereum</li>
+        <li>Solana</li>
+        <li>Dogecoin</li>
+        <li>XRP</li>
+      </ul>
+    </div>  </div>
+    <div class="copyright">
+      <p>Finansgatan 75, 755 57 Stockholm</p>
+      <p>Copyright &copy; Blockify 2024</p>
+    </div>
+  </footer>
+</body>
+
 </html>
