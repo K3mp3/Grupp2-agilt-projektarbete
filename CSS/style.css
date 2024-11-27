@@ -129,3 +129,41 @@ img {
 .intro-ul {
   padding: 0 16px;
 }
+
+footer{
+    background-color:#0e0e0e;
+    flex-direction: column;
+    padding:20px;
+    border-top: solid 1px#E8E8E8;
+}
+
+.footer-wrapper{
+    display:flex;
+    gap:128px;
+    justify-content:center;
+    margin-bottom:16px;
+}
+
+.footer-ul{
+    padding:0;
+    list-style:none;
+    flex-direction:column;
+    display:flex;
+    gap:8px;
+}
+
+.footer-list{
+    text-align:center;
+}
+
+.copyright{
+    text-align:center;
+}
+
+h3{
+    font-size: 1.5rem;
+    background: -webkit-linear-gradient(#9324e8, #d73a6c);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: "Albert Sans", sans-serif;
+}
