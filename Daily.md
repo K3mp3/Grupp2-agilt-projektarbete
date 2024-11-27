@@ -130,6 +130,6 @@ Idag har vi tillsammans gjort en retro för att känna av hur allt går och jag 
   <li>Niklas:Igår gjorde vi en footer tillsammans och jag justerade texten jag skrivit på min del. Idag planerar jag att skapa en pull request och mergea min branch till main i GitHub. I morgon kommer focus ligga på att finjustera våra olika delar så dom passar tillsammans.</li>
   <li>Melvin:</li>
   <li>Rita:</li>
-  <li>Ella:</li>
+  <li>Ella: Förra gången gjorde vi en footer tillsammans, idag så rättar vi till fel som uppstått i Github när vi försöker merge våra branches. Min hade hittat issues, och efter daily har vi ett kort möte med feedback och plan på hur vi ska rätta till de fel som uppstått.</li>
 </ul>
 
