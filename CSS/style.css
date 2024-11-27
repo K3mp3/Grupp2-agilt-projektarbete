@@ -148,7 +148,7 @@ img {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    gap: 16px;
+    gap: 24px;
     width: 100%;
 }
 
@@ -156,7 +156,36 @@ img {
     display: flex;
     flex-direction: column;
     text-align: center;
-    max-width: 28%;
+    align-items: center; 
+    width: 28%;
+    max-width:100%;
     padding: 16px;
     height: 20px;
+    box-sizing: border-box;
+}
+
+
+img {
+    max-width: 100%;
+    height: auto; 
+}
+
+@media (max-width: 768px) {
+    .usage-row {
+        flex-direction: column;
+    }
+
+    p {
+        margin-bottom: 16px;
+    }
+}
+
+@media (max-width: 480px) {
+    .usage-wrapper {
+        flex-direction: column;
+    }
+
+    .usage-row {
+        max-width: 100%;
+    }
 }
