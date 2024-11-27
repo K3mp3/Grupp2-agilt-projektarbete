@@ -102,3 +102,9 @@ button{
 input {
     height: 20px;
 }
+
+
+.image-box img {
+    width: 100%;
+    height: auto;
+}
