@@ -133,91 +133,91 @@ img {
 /*Niklas del*/
 
 .niklas {
-    border-top: 2px solid white;
-    padding-bottom: 5rem;
+  border-top: 2px solid white;
+  padding-bottom: 5rem;
 }
 
 .intro-framtid {
-    display: flex;
-    padding-top: 3rem;
-    padding-bottom: 1rem;
-    line-height: 1.5;
+  display: flex;
+  padding-top: 3rem;
+  padding-bottom: 1rem;
+  line-height: 1.5;
 }
 
 .rubrik-niklas {
-    text-align: center;
-    font-family: "Albert Sans", sans-serif;
+  text-align: center;
+  font-family: "Albert Sans", sans-serif;
 }
 
 .text1 {
-    padding-left: 2rem;
-    padding-right: 8rem;
-    text-align: left;
-    line-height: 1.5;
+  padding-left: 2rem;
+  padding-right: 8rem;
+  text-align: left;
+  line-height: 1.5;
 }
 
 .construction {
-    padding-right: 8rem;
-    padding-top: 3rem;
+  padding-right: 8rem;
+  padding-top: 3rem;
 }
 
 .text2 {
-    padding-left: 8rem;
-    padding-right: 3rem;
-    text-align: left;
-    line-height: 1.5;
+  padding-left: 8rem;
+  padding-right: 3rem;
+  text-align: left;
+  line-height: 1.5;
 }
 
 .security {
-    padding-left: 6rem;
-    padding-top: 3rem;
+  padding-left: 6rem;
+  padding-top: 3rem;
 }
 
 .gaming {
-    padding-right: 6rem;
-    padding-top: 3rem;
+  padding-right: 6rem;
+  padding-top: 3rem;
 }
 
 .intro-framtid {
-    text-align: center;
-    padding-left: 4rem;
-    padding-right: 4rem;
+  text-align: center;
+  padding-left: 4rem;
+  padding-right: 4rem;
 }
 
-footer{
-    background-color:#0e0e0e;
-    flex-direction: column;
-    padding:20px;
-    border-top: solid 1px#E8E8E8;
+footer {
+  background-color: #0e0e0e;
+  flex-direction: column;
+  border-top: solid 1px#E8E8E8;
+  width: 100vw;
 }
 
-.footer-wrapper{
-    display:flex;
-    gap:128px;
-    justify-content:center;
-    margin-bottom:16px;
+.footer-wrapper {
+  display: flex;
+  gap: 128px;
+  justify-content: center;
+  margin-bottom: 16px;
 }
 
-.footer-ul{
-    padding:0;
-    list-style:none;
-    flex-direction:column;
-    display:flex;
-    gap:8px;
+.footer-ul {
+  padding: 0;
+  list-style: none;
+  flex-direction: column;
+  display: flex;
+  gap: 8px;
 }
 
-.footer-list{
-    text-align:center;
+.footer-list {
+  text-align: center;
 }
 
-.copyright{
-    text-align:center;
+.copyright {
+  text-align: center;
 }
 
-h3{
-    font-size: 1.5rem;
-    background: -webkit-linear-gradient(#9324e8, #d73a6c);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-family: "Albert Sans", sans-serif;
+h3 {
+  font-size: 1.5rem;
+  background: -webkit-linear-gradient(#9324e8, #d73a6c);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: "Albert Sans", sans-serif;
 }
