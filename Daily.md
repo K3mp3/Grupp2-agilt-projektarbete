@@ -120,3 +120,16 @@ Idag har vi tillsammans gjort en retro för att känna av hur allt går och jag 
   <li>Rita:</li>
 </ul>
 
+<h2>27/11 2024</h2>
+<strong>Backlog:</strong>
+
+<img width="1176" alt="Screenshot 2024-11-27 at 11 56 25" src="https://github.com/user-attachments/assets/80d31346-d99a-4969-9e13-9dfe236cb95a">
+<img width="1279" alt="Screenshot 2024-11-27 at 11 57 19" src="https://github.com/user-attachments/assets/b94bce6c-8028-45cc-a686-5ef97d77dad1">
+
+<ul>
+  <li>Niklas:Igår gjorde vi en footer tillsammans och jag justerade texten jag skrivit på min del. Idag planerar jag att skapa en pull request och mergea min branch till main i GitHub. I morgon kommer focus ligga på att finjustera våra olika delar så dom passar tillsammans.</li>
+  <li>Melvin:</li>
+  <li>Rita:</li>
+  <li>Ella:</li>
+</ul>
+
