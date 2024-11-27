@@ -1,77 +1,121 @@
 <!DOCTYPE html>
 <html lang="sv">
-  <head>
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Albert+Sans:ital@0;1&display=swap"
-      rel="stylesheet"
-    />
-    <meta charset="UTF-8" />
-    <title>HTML 5 Boilerplate</title>
-    <link rel="stylesheet" href="CSS/style.css" />
-  </head>
 
-  <body>
-    <header>
-      <nav>
-        <div class="nav-wrapper">
-          <h1>Blockify</h1>
-          <ul class="nav-ul">
-            <li>Hem</li>
-            <li>Om Blockchain</li>
-            <li>Användningsområden</li>
-            <li>Företag</li>
-            <li>Framtiden</li>
-          </ul>
-          <button type="button">Registrera</button>
-        </div>
-      </nav>
+<head>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Albert+Sans:ital@0;1&display=swap" rel="stylesheet" />
+  <meta charset="UTF-8" />
+  <title>HTML 5 Boilerplate</title>
+  <link rel="stylesheet" href="CSS/style.css" />
+</head>
 
-      <section class="signup-form-parent">
-        <h2 class="signup-heading">Registrera</h2>
-        <form class="signup-form">
-          <label class="signup-label" for="namn"
-            ><span> Namn </span>
-            <input name="namn" type="text" id="namn" placeholder="Namn"
-          /></label>
-          <label class="signup-label" for="email"
-            ><span> Email </span>
-            <input name="email" type="email" id="emai" placeholder="Email"
-          /></label>
-          <button type="submit">Registrera</button>
-        </form>
-      </section>
-    </header>
+<body>
+  <header>
+    <nav>
+      <div class="nav-wrapper">
+        <h1>Blockify</h1>
+        <ul class="nav-ul">
+          <li>Hem</li>
+          <li>Om Blockchain</li>
+          <li>Användningsområden</li>
+          <li>Företag</li>
+          <li>Framtiden</li>
+        </ul>
+        <button type="button">Registrera</button>
+      </div>
+    </nav>
 
-    <main>
-      <!-- Image from: https://www.freepik.com/free-vector/gradient-style-nft-concept_14064705.htm#fromView=search&page=1&position=28&uuid=7e52c27d-6ad4-4a2b-aae3-d9a4436852f5 -->
-      <section class="intro-section">
-        <img
-          src="./assets/img/blockchain_illustration.jpg"
-          alt="block som representerar olika produkter som blockchain kan anvnändas till."
-        />
-        <div class="intro-text">
-          <h2>Vad är blockchain?</h2>
-          <p class="">
-            Blockchain är en decentralicerad digital huvudbok som på ett säkert
-            sätt sparar data utspritt på ett nätvärk av datorer, kallat peers,
-            på ett sätt som gör datan transparent oföränderlig och
-            motståndskraftig mot manipulering. Varje ”block” innehållar data,
-            blocken kopplas sedan ihop i en kronologisk ”kedja”. Blockchain är
-            mest känt för dess viktiga roll inom kryptovalutor men har ävven
-            fler användningsområden.
+    <section class="signup-form-parent">
+      <h2 class="signup-heading">Registrera</h2>
+      <form class="signup-form">
+        <label class="signup-label" for="namn"><span> Namn </span>
+          <input name="namn" type="text" id="namn" placeholder="Namn" /></label>
+        <label class="signup-label" for="email"><span> Email </span>
+          <input name="email" type="email" id="emai" placeholder="Email" /></label>
+        <button type="submit">Registrera</button>
+      </form>
+    </section>
+  </header>
+
+  <main>
+    <!-- Image from: https://www.freepik.com/free-vector/gradient-style-nft-concept_14064705.htm#fromView=search&page=1&position=28&uuid=7e52c27d-6ad4-4a2b-aae3-d9a4436852f5 -->
+    <section class="intro-section">
+      <img src="./assets/img/blockchain_illustration.jpg"
+        alt="block som representerar olika produkter som blockchain kan anvnändas till." />
+      <div class="intro-text">
+        <h2>Vad är blockchain?</h2>
+        <p class="">
+          Blockchain är en decentralicerad digital huvudbok som på ett säkert
+          sätt sparar data utspritt på ett nätvärk av datorer, kallat peers,
+          på ett sätt som gör datan transparent oföränderlig och
+          motståndskraftig mot manipulering. Varje ”block” innehållar data,
+          blocken kopplas sedan ihop i en kronologisk ”kedja”. Blockchain är
+          mest känt för dess viktiga roll inom kryptovalutor men har ävven
+          fler användningsområden.
+        </p>
+      </div>
+      <div class="intro-ul-list">
+        <strong>Blockchain kan användas för:</strong>
+        <ul class="intro-ul">
+          <li>Streaming</li>
+          <li>Finans kallat DeFi</li>
+          <li>Sjukvård</li>
+        </ul>
+      </div>
+    </section>
+
+
+    <section class="usage-section">
+      <div class="usage-heading">
+        <h3>Blockchain: Användningsområden</h3>
+      </div>
+
+      <div class="usage-wrapper">
+        <div class="usage-row">
+          <p>När man hör ordet ”blockkedja” är det naturligt att associera det med kryptovalutor, eftersom det är den
+            mest välkända tillämpningen av tekniken. Även om kryptovalutor fortfarande dominerar användningsområdet, är
+            blockkedjans potential betydligt bredare och kan tillämpas inom en rad andra sektorer. Ett framstående
+            exempel är Smart Contracts, automatiserade avtal som körs direkt på blockkedjan. Dessa kan användas för att
+            effektivisera stora transaktioner, hantera försäkringsutbetalningar, reglera lån, administrera hyresavtal,
+            säkerställa kvalitetskontroller och distribuera royaltybetalningar till konstnärer och musiker. Genom att
+            eliminera behovet av mellanhänder och minska risken för mänskliga fel skapar tekniken både effektivitet och
+            tillförlitlighet. Fastighetsregister, som ofta lider av ineffektivitet och korruption, kan moderniseras
+            genom en transparent och tillförlitlig lösning där äganderätt och transaktioner kan verifieras i realtid.
           </p>
+          <img src="ellaimages/property.jpg" alt="HTML tutorial" style="width:550px;height:auto;">
         </div>
-        <div class="intro-ul-list">
-          <strong>Blockchain kan användas för:</strong>
-          <ul class="intro-ul">
-            <li>Streaming</li>
-            <li>Finans kallat DeFi</li>
-            <li>Sjukvård</li>
-          </ul>
+
+        <div class="usage-row">
+          <img src="ellaimages/medical.jpg" alt="HTML tutorial" style="width:550px;height:auto;">
+          <p>Blockkedjans decentraliserade och krypterade struktur gör den också idealisk för att hantera känslig
+            information. Medicinska journaler, fastighetsregister, identitetshantering och forskningsdata kan lagras och
+            spåras säkert.Genom att distribuera data över flera noder istället för att förlita sig på en central server
+            minskar risken för dataintrång och manipulation. Varje förändring i blockkedjan kräver konsensus från
+            nätverket, vilket garanterar att informationen förblir oföränderlig och spårbar.Inom medicinsk sektor kan
+            blockkedjan revolutionera hanteringen av journaler genom att möjliggöra säker lagring och delning av
+            patientinformation mellan vårdgivare, samtidigt som patientens integritet skyddas. Forskningsdata kan också
+            dra nytta av blockkedjans funktionalitet genom att säkerställa att data är autentisk, tidsstämplad och
+            tillgänglig för granskning.</p>
         </div>
-      </section>
-    </main>
-  </body>
+
+        <div class="usage-row">
+          <p>Sammantaget erbjuder blockkedjeteknologin ett brett spektrum av möjligheter för att hantera känslig
+            information på ett sätt som är både säkert och effektivt, vilket kan förändra och förbättra en rad olika
+            branscher och samhällsfunktioner. Genom att varje förändring i blockkedjan verifieras med hjälp av unika
+            hashvärden skapas en transparent och oföränderlig historik som garanterar att data är äkta och skyddad mot
+            manipulation. Denna robusta säkerhet och transparens banar väg för innovation inom områden som logistik,
+            finans, sjukvård, utbildning och offentlig förvaltning.Inom logistik möjliggör blockkedjan förbättrad
+            spårbarhet och effektivitet genom att tillhandahålla realtidsinformation om varors rörelser längs hela
+            leveranskedjan. Till exempel kan företag och konsumenter enkelt verifiera var en produkt har tillverkats,
+            hur den transporterats och om den uppfyller hållbarhetsstandarder. </p>
+          <img src="ellaimages/warehouse.jpg" alt="HTML tutorial" style="width:550px;height:auto;">
+        </div>
+      </div>
+    </section>
+
+
+  </main>
+</body>
+
 </html>
