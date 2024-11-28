@@ -117,7 +117,7 @@ Idag har vi tillsammans gjort en retro för att känna av hur allt går och jag 
   <li>Niklas: Igår gjorde vi en retro och sen skrev jag klart det mesta av min text, idag kommer vi göra en footer tillsammans och sen kommer jag finjustera texten jag skrev igår.</li>
   <li>Ella:Vi lade en kort stund på retro tillsammans igår, och jag jobbade på koden till min del av sidan ("usage"). Jag skapade en branch och idag ska jag fortsätta arbeta på den tills jag ber om pull request av teamet. Tillsammans ska vi göra en footer.</li>
   <li>Melvin: Igår arbetade jag med intro sektionen av webbsidan. Idag ska vi tillsammans i grupp arbeta med mob programmering för att göra klart footern.</li>
-  <li>Rita:</li>
+  <li>Rita:Var inte med på mötet. Jag var sjuk.</li>
 </ul>
 
 <h2>27/11 2024</h2>
@@ -128,8 +128,8 @@ Idag har vi tillsammans gjort en retro för att känna av hur allt går och jag 
 
 <ul>
   <li>Niklas:Igår gjorde vi en footer tillsammans och jag justerade texten jag skrivit på min del. Idag planerar jag att skapa en pull request och mergea min branch till main i GitHub. I morgon kommer focus ligga på att finjustera våra olika delar så dom passar tillsammans.</li>
-  <li>Melvin:</li>
-  <li>Rita:</li>
+  <li>Melvin:Igår arbetade vi tillsammans för att ta fram en footer. Idag kommer fokus att ligga på att kolla på merge conflicts som uppstod igår och försöka fixa dessa.</li>
+  <li>Rita:Ella och Niklas försökte merga sina braches. Det fanns fel som vi försökte lösa. </li>
   <li>Ella: Förra gången gjorde vi en footer tillsammans, idag så rättar vi till fel som uppstått i Github när vi försöker merge våra branches. Min hade hittat issues, och efter daily har vi ett kort möte med feedback och plan på hur vi ska rätta till de fel som uppstått.</li>
 </ul>
 
