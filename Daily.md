@@ -133,3 +133,18 @@ Idag har vi tillsammans gjort en retro för att känna av hur allt går och jag 
   <li>Ella: Förra gången gjorde vi en footer tillsammans, idag så rättar vi till fel som uppstått i Github när vi försöker merge våra branches. Min hade hittat issues, och efter daily har vi ett kort möte med feedback och plan på hur vi ska rätta till de fel som uppstått.</li>
 </ul>
 
+
+<h2>28/11 2024</h2>
+<strong>Backlogg: </strong>
+<img width="785" alt="image" src="https://github.com/user-attachments/assets/5cde7c33-f63d-47b8-8017-aaae65ed078d">
+<img width="923" alt="image" src="https://github.com/user-attachments/assets/b7726b1b-890b-4952-9486-5410c789a82d">
+
+<ul>
+  <li>Niklas:</li>
+  <li>Melvin:.</li>
+  <li>Rita: Igår försökte vi lösa Ellas och Niklas branches. Idag hade vi handledning med Jenny och hon hjälpte oss att lösa Ellas branch. Idag jobbade vi på att fixa min branch. </li>
+  <li>Ella:</li>
+</ul>
+
+
+
