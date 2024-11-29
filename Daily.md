@@ -152,7 +152,7 @@ Idag har vi tillsammans gjort en retro för att känna av hur allt går och jag 
 <img width="1587" alt="Screenshot 2024-11-29 at 10 07 37" src="https://github.com/user-attachments/assets/0097082f-e190-493c-b252-52c0c1257c6b">
 
 
-<ul>![Uploading Screenshot 2024-11-29 at 10.07.37.png…]()
+<ul>
 
   <li>Niklas</li>
   <li>Ella</li>
