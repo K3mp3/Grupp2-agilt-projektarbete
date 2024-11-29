@@ -258,13 +258,13 @@ h2{
 
 .niklas {
   border-top: 2px solid white;
-  padding-bottom: 5rem;
+  padding-bottom: 40px;
 }
 
 .intro-framtid {
   display: flex;
-  padding-top: 3rem;
-  padding-bottom: 1rem;
+  padding-top: 24px;
+  padding-bottom: 8px;
   line-height: 1.5;
 }
 
@@ -274,30 +274,30 @@ h2{
 }
 
 .text1 {
-  padding-left: 2rem;
-  padding-right: 8rem;
+  padding-left: 16px;
+  padding-right: 64px;
   text-align: left;
   line-height: 1.5;
 }
 
 .construction {
-  padding-right: 8rem;
-  padding-top: 3rem;
+  padding-right: 64px;
+  padding-top: 24px;
 }
 
 .text2 {
-  padding-left: 8rem;
-  padding-right: 3rem;
+  padding-left: 64px;
+  padding-right: 24px;
   text-align: left;
   line-height: 1.5;
 }
 
 .security {
-  padding-left: 6rem;
-  padding-top: 3rem;
+  padding-left: 48px;
+  padding-top: 24px;
 }
 
 .gaming {
-  padding-right: 6rem;
-  padding-top: 3rem;
+  padding-right: 48px;
+  padding-top: 24px;
 }
