@@ -140,7 +140,7 @@ Idag har vi tillsammans gjort en retro för att känna av hur allt går och jag 
 <img width="923" alt="image" src="https://github.com/user-attachments/assets/b7726b1b-890b-4952-9486-5410c789a82d">
 
 <ul>
-  <li>Niklas:</li>
+  <li>Niklas:Igår jobbade vi med diverse problem med merge conflicts, idag hade gruppen handledning med Jenny.</li>
   <li>Melvin:Igår lade vi ned mycket tid på att lösa merge conflicts och fixa lite delar i koden. Idag forsätter vi med det för att se till så att alla merges går igenom.</li>
   <li>Rita: Igår försökte vi lösa Ellas och Niklas branches. Idag hade vi handledning med Jenny och hon hjälpte oss att fixa Ellas branch. Idag jobbade vi på att fixa min branch. </li>
   <li>Ella: Igår samarbetade vi på att lösa våra branches olika issues som uppstod. Och idag fortsatte vi med det efter handledning från Jenny. </li>
