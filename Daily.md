@@ -152,7 +152,7 @@ Idag har vi tillsammans gjort en retro för att känna av hur allt går och jag 
 <ul>
   <li>Niklas</li>
   <li>Ella</li>
-  <li>Melvin</li>
+  <li>Melvin: Igår hade vi handledning och arbetade med att lösa merge conflicts som hade uppstått. Idag ska jag arbeta med att fixa lite små styling för att förbättra webbsidan.</li>
   <li>Rita</li>
 </ul>
 
