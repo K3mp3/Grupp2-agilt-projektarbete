@@ -303,3 +303,27 @@ h2{
   padding-right: 48px;
   padding-top: 24px;
 }
+
+html {
+    scroll-padding-top: 74px;
+  }
+
+  .nav-top {
+    cursor:pointer;
+  }
+
+  .nav-intro-section {
+    cursor:pointer;
+  }
+
+  .nav-usage-section {
+    cursor:pointer;
+  }
+
+  .nav-container {
+    cursor:pointer;
+  }
+
+  .nav-future-section {
+    cursor:pointer;
+  }
