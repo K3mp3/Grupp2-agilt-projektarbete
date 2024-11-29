@@ -149,8 +149,7 @@ Idag har vi tillsammans gjort en retro för att känna av hur allt går och jag 
 <h2>29/11 2024</h2>
 <strong>Backlog:</strong>
 <img width="1228" alt="Screenshot 2024-11-29 at 10 28 49" src="https://github.com/user-attachments/assets/5b7cfe83-e142-4046-a849-4acfe71bb50c">
-
-<img width="1587" alt="Screenshot 2024-11-29 at 10 07 37" src="https://github.com/user-attachments/assets/0097082f-e190-493c-b252-52c0c1257c6b">
+<img width="1372" alt="Screenshot 2024-11-29 at 10 31 34" src="https://github.com/user-attachments/assets/333f4d8d-78db-488e-85c3-4a18e9df921a">
 
 
 <ul>
