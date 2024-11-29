@@ -13,6 +13,8 @@ header {
     position: relative;
     min-width: 100vw;
     height: 100vh;
+    border-bottom: 2px solid white;
+
 }
 
 nav {
@@ -111,6 +113,7 @@ input {
     gap: 12px;
     max-width: 700px;
     margin: auto;
+
 }
 
 .intro-text {
@@ -136,6 +139,9 @@ img {
     flex-direction: column;
     align-items: center;
     padding: 16px;
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+
 }
 
 .usages-heading {
