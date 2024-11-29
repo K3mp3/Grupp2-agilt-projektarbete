@@ -146,5 +146,14 @@ Idag har vi tillsammans gjort en retro för att känna av hur allt går och jag 
   <li>Ella: Igår samarbetade vi på att lösa våra branches olika issues som uppstod. Och idag fortsatte vi med det efter handledning från Jenny. </li>
 </ul>
 
+<h2>27/11 2024</h2>
+<strong>Backlog:</strong>
+
+<ul>
+  <li>Niklas</li>
+  <li>Ella</li>
+  <li>Melvin</li>
+  <li>Rita</li>
+</ul>
 
 
