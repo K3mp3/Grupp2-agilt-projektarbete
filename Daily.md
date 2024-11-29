@@ -148,8 +148,12 @@ Idag har vi tillsammans gjort en retro för att känna av hur allt går och jag 
 
 <h2>29/11 2024</h2>
 <strong>Backlog:</strong>
+<img width="1246" alt="Screenshot 2024-11-29 at 10 06 04" src="https://github.com/user-attachments/assets/3a4ae2ee-d176-4d33-93ba-4cc9a998df31">
+<img width="1587" alt="Screenshot 2024-11-29 at 10 07 37" src="https://github.com/user-attachments/assets/0097082f-e190-493c-b252-52c0c1257c6b">
 
-<ul>
+
+<ul>![Uploading Screenshot 2024-11-29 at 10.07.37.png…]()
+
   <li>Niklas</li>
   <li>Ella</li>
   <li>Melvin: Igår hade vi handledning och arbetade med att lösa merge conflicts som hade uppstått. Idag ska jag arbeta med att fixa lite små styling för att förbättra webbsidan.</li>
