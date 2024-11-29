@@ -117,10 +117,11 @@ input {
     padding: 4px;
 }
 
+/* melvins img-tagg (kommenterar ut sålänge, adderar width i html och margin i en gemensam img-css)
 img {
     max-width: 700px;
     margin-bottom: 16px;
-}
+} */
 
 .intro-ul-list {
     width: 100%;
@@ -154,7 +155,12 @@ img {
 
 img {
     max-width: 100%;
-    height: auto; 
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+
 } 
 @media (max-width: 768px) {
     .usage-row {
@@ -241,7 +247,7 @@ h2{
     flex-direction: column;
     align-items: center;
 }
-
+/* ritas image box, lägger dessa grejer i img-css
 .image-box {
     display: flex;
     align-items: center;
@@ -249,7 +255,7 @@ h2{
     height: 250px;
     border-radius: 5px;
     overflow: hidden;
-}
+} */
 
 .image-box img {
     max-width: 100%;
