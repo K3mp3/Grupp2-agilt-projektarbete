@@ -240,7 +240,6 @@ h2{
     font-size: 2.2rem;
     margin-bottom: 20px;
     text-align: center;
-    font-family: "Albert Sans", sans-serif;
 }
 
 .grid {
@@ -281,10 +280,10 @@ h2{
   line-height: 1.5;
 }
 
-/* .rubrik-niklas { kommenterar ut denna för att ersätta den med h2
+rubrik-niklas { 
   text-align: center;
   font-family: "Albert Sans", sans-serif;
-} */
+}
 
 .text1 {
   padding-left: 16px;
