@@ -1,4 +1,4 @@
-document.querySelectorAll(".nav-ul li").forEach(menuItem => {
+document.querySelectorAll(".nav-ul li, button.nav-top").forEach(menuItem => {
   menuItem.addEventListener("click", function () {
     const targetClass = this.className.replace("nav-", ""); // Ta bort "nav-" för att hitta motsvarande sektion
     const targetSection = document.querySelector(`.${targetClass}`); // Matcha sektionen med klassen
