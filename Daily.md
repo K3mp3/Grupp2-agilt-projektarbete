@@ -167,7 +167,7 @@ Retro #2: <img width="681" alt="Skärmavbild 2024-12-02 kl  09 29 40" src="http
 
 <ul>
 
-  <li>Niklas: </li>
+  <li>Niklas: I fredags gjorde jag en scroll-funktion till våran sida, idag mergade vi in den till main. Vi började även mötet med en retro där vi reflekterade över sprint 2. Vi utsåg Ella till ny scrum master denna vecka.</li>
   <li>Ella: I fredags gjorde jag en ny branch där alla bilderna fick en border-radius som matchade varann. Idag så försöker vi mergea min och Niklas pull-request. Vi började mötet med en retro av sprint 2 och utsåg ny scrum master: mig. </li>
   <li>Melvin:</li>
   <li>Rita:</li>
