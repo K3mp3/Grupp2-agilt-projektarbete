@@ -160,4 +160,14 @@ Idag har vi tillsammans gjort en retro för att känna av hur allt går och jag 
   <li>Rita: Vi jobbade med merge conflicts. Idag ska jag korrigera små visuella fel i min del av sidan. Mina bilder ser "ihop mosade" ut i jämförelse med andras arbeten.</li>
 </ul>
 
+<h2>2/12 2024</h2>
+Backlog: <img width="1646" alt="Skärmavbild 2024-12-02 kl  09 23 31" src="https://github.com/user-attachments/assets/7095d910-6766-49c7-90c5-8d04ca9b7f22">
+Roadmap: <img width="1650" alt="Skärmavbild 2024-12-02 kl  09 23 38" src="https://github.com/user-attachments/assets/2eb806d2-b2e3-4792-bba5-cb6b2162de2d">
 
+<ul>
+
+  <li>Niklas: </li>
+  <li>Ella:</li>
+  <li>Melvin:</li>
+  <li>Rita:</li>
+</ul>
