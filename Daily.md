@@ -157,7 +157,7 @@ Idag har vi tillsammans gjort en retro för att känna av hur allt går och jag 
   <li>Niklas: Igår hade gruppen handledning med Jenny, jag var tyvärr sjuk. Idag har vi mergat ihop hela projectet så vi kan se hur slutresultatet kommer bli på ett ungefär. Jag kommer också skapa en scroll-knapp för att göra navigeringen på hemsidan lättare</li>
   <li>Ella: Igår efter handledning så gjorde vi lite merge conflicts och felsökning. Idag ska jag sätta border-radius på samtliga bilder på hemsidan. Kanske tar jag mig friheten att fixa en gemensam design till alla rubriker.</li>
   <li>Melvin: Igår hade vi handledning och arbetade med att lösa merge conflicts som hade uppstått. Idag ska jag arbeta med att fixa lite små styling för att förbättra webbsidan.</li>
-  <li>Rita</li>
+  <li>Rita: Vi jobbade med merge conflicts. Idag ska jag korrigera små visuella fel i min del av sidan. Mina bilder ser "ihop mosade" ut i jämförelse med andras arbeten.</li>
 </ul>
 
 
