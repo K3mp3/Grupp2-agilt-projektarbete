@@ -155,9 +155,20 @@ Idag har vi tillsammans gjort en retro för att känna av hur allt går och jag 
 <ul>
 
   <li>Niklas: Igår hade gruppen handledning med Jenny, jag var tyvärr sjuk. Idag har vi mergat ihop hela projectet så vi kan se hur slutresultatet kommer bli på ett ungefär. Jag kommer också skapa en scroll-knapp för att göra navigeringen på hemsidan lättare</li>
-  <li>Ella: Igår efter handledning så gjorde vi lite merge conflicts och felsökning. Idag ska jag sätta border-radius på samtliga bilder på hemsidan. Kanske tar jag mig friheten att fixa en gemensam design till alla rubriker.</li>
+  <li>Ella: Igår efter handledning så gjorde vi lite merge conflicts och felsökning. Idag ska jag sätta border-radius på samtliga bilder på hemsidan.</li>
   <li>Melvin: Igår hade vi handledning och arbetade med att lösa merge conflicts som hade uppstått. Idag ska jag arbeta med att fixa lite små styling för att förbättra webbsidan.</li>
-  <li>Rita</li>
+  <li>Rita: Vi jobbade med merge conflicts. Idag ska jag korrigera små visuella fel i min del av sidan. Mina bilder ser "ihop mosade" ut i jämförelse med andras arbeten.</li>
 </ul>
 
+<h2>2/12 2024</h2>
+Backlog: <img width="1646" alt="Skärmavbild 2024-12-02 kl  09 23 31" src="https://github.com/user-attachments/assets/7095d910-6766-49c7-90c5-8d04ca9b7f22">
+Roadmap: <img width="1650" alt="Skärmavbild 2024-12-02 kl  09 23 38" src="https://github.com/user-attachments/assets/2eb806d2-b2e3-4792-bba5-cb6b2162de2d">
+Retro #2: <img width="681" alt="Skärmavbild 2024-12-02 kl  09 29 40" src="https://github.com/user-attachments/assets/4b941a61-f8c1-4585-b010-319771935610">
 
+<ul>
+
+  <li>Niklas: I fredags gjorde jag en scroll-funktion till våran sida, idag mergade vi in den till main. Vi började även mötet med en retro där vi reflekterade över sprint 2. Vi utsåg Ella till ny scrum master denna vecka.</li>
+  <li>Ella: I fredags gjorde jag en ny branch där alla bilderna fick en border-radius som matchade varann. Idag så försöker vi mergea min och Niklas pull-request. Vi började mötet med en retro av sprint 2 och utsåg ny scrum master: mig. </li>
+  <li>Melvin: I fredags arbetade jag med att uppdatera styling på webbsidan samt lägga in lite hover funktioner. Idag har vi gjort en retro där vi pratade om vad som gick bra och vad som gick mindre bra, valt en ny scrum master. Jag ska idag göra klart styling uppdateringarna för att sedan skapa en pull request för det.</li>
+  <li>Rita:</li>
+</ul>
