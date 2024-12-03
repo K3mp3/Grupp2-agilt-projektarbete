@@ -172,3 +172,18 @@ Retro #2: <img width="681" alt="Skärmavbild 2024-12-02 kl  09 29 40" src="http
   <li>Melvin: I fredags arbetade jag med att uppdatera styling på webbsidan samt lägga in lite hover funktioner. Idag har vi gjort en retro där vi pratade om vad som gick bra och vad som gick mindre bra, valt en ny scrum master. Jag ska idag göra klart styling uppdateringarna för att sedan skapa en pull request för det.</li>
   <li>Rita:</li>
 </ul>
+
+
+<h2>3/12 2024</h2>
+Backlog:  <img width="1327" alt="Skärmavbild 2024-12-03 kl  09 01 47" src="https://github.com/user-attachments/assets/8654303f-9ac9-4970-878a-0346977cf4c6">
+Roadmap:<img width="1302" alt="Skärmavbild 2024-12-03 kl  09 01 56" src="https://github.com/user-attachments/assets/b453800f-bbaf-4222-8c3f-554b1de1af62">
+
+
+
+<ul>
+
+  <li>Niklas: </li>
+  <li>Ella: </li>
+  <li>Melvin: Igår arbetade jag med att fixa lite styling på webbsidan. Idag mergade vi in den i main och ska sedan gå vidare till att göra en validering samt ett lighthouse test.</li>
+  <li>Rita:</li>
+</ul>
