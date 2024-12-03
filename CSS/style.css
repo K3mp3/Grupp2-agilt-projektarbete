@@ -42,10 +42,9 @@ h1 {
     -webkit-background-clip: text;
     color: transparent; 
     font-family: "Albert Sans", sans-serif;
-    font-optical-sizing: auto;
     font-weight: 900;
   }
-  
+
 .nav-ul {
   display: flex;
   list-style: none;
