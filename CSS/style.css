@@ -37,15 +37,15 @@ nav {
 }
 
 h1 {
-  font-size: 2.2rem;
-  background: -webkit-linear-gradient(#9324e8, #d73a6c);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  font-family: "Albert Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 900;
-}
-
+    font-size: 2.2rem;
+    background: -webkit-linear-gradient(#9324e8, #d73a6c); 
+    -webkit-background-clip: text;
+    color: transparent; 
+    font-family: "Albert Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+  }
+  
 .nav-ul {
   display: flex;
   list-style: none;
