@@ -183,7 +183,7 @@ Roadmap:<img width="1302" alt="Skärmavbild 2024-12-03 kl  09 01 56" src="https
 <ul>
 
   <li>Niklas: </li>
-  <li>Ella: </li>
+  <li>Ella: Igår jobbade vi med merge conflicts i olika nya brancher vi gjort för diverse funktioner. Idag ska vi fortstätta på det, sedan köra en första bvalidering och lighthouse-rapport och sedan utgå från den i vad vi måste lösa vidare. </li>
   <li>Melvin: Igår arbetade jag med att fixa lite styling på webbsidan. Idag mergade vi in den i main och ska sedan gå vidare till att göra en validering samt ett lighthouse test.</li>
   <li>Rita:</li>
 </ul>
