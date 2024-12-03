@@ -1,230 +1,381 @@
 <!DOCTYPE html>
 <html lang="sv">
-
-<head>
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Albert+Sans:ital@0;1&display=swap" rel="stylesheet" />
-  <meta charset="UTF-8" />
-  <title>HTML 5 Boilerplate</title>
-  <link rel="stylesheet" href="CSS/style.css" />
-</head>
-<body>
-  <header class="top">
-    <nav>
-      <div class="nav-wrapper">
-        <h1>Blockify</h1>
-        <ul class="nav-ul">
-          <li class="nav-top">Hem</li>
-          <li class="nav-intro-section">Om Blockchain</li>
-          <li class="nav-usage-section">Användningsområden</li>
-          <li class="nav-container">Företag</li>
-          <li class="nav-future-section">Framtiden</li>
-        </ul>
-        <button class="nav-top" type="button">Registrera</button>
-      </div>
-    </nav>
-
-    <section class="signup-form-parent">
-      <h2 class="signup-heading">Registrera</h2>
-      <form class="signup-form">
-        <label class="signup-label" for="namn"><span> Namn </span>
-          <input name="namn" type="text" id="namn" placeholder="Namn" /></label>
-        <label class="signup-label" for="email"><span> Email </span>
-          <input name="email" type="email" id="emai" placeholder="Email" /></label>
-        <button class="nav-top" type="submit">Registrera</button>
-      </form>
-    </section>
-  </header>
-
-  <main>
-    <!-- Image from: https://www.freepik.com/free-vector/gradient-style-nft-concept_14064705.htm#fromView=search&page=1&position=28&uuid=7e52c27d-6ad4-4a2b-aae3-d9a4436852f5 -->
-    <section class="intro-section">
-      <img src="./assets/img/blockchain_illustration.jpg" width="700px" height="auto"
-        alt="block som representerar olika produkter som blockchain kan anvnändas till." />
-      <div class="intro-text">
-        <h2>Vad är blockchain?</h2>
-        <p class="">
-          Blockchain är en decentralicerad digital huvudbok som på ett säkert
-          sätt sparar data utspritt på ett nätvärk av datorer, kallat peers,
-          på ett sätt som gör datan transparent oföränderlig och
-          motståndskraftig mot manipulering. Varje ”block” innehållar data,
-          blocken kopplas sedan ihop i en kronologisk ”kedja”. Blockchain är
-          mest känt för dess viktiga roll inom kryptovalutor men har ävven
-          fler användningsområden.
-        </p>
-      </div>
-      <div class="intro-ul-list">
-        <strong>Blockchain kan användas för:</strong>
-        <ul class="intro-ul">
-          <li>Streaming</li>
-          <li>Finans kallat DeFi</li>
-          <li>Sjukvård</li>
-        </ul>
-      </div>
-    </section>
-
-
-    <section class="usage-section">
-      <div class="usage-heading">
-        <h2>Blockchain: Användningsområden</h2>
-      </div>
-
-      <div class="usage-wrapper">
-        <div class="usage-row">
-          <p>När man hör ordet ”blockkedja” är det naturligt att associera det med kryptovalutor, eftersom det är den
-            mest välkända tillämpningen av tekniken. Även om kryptovalutor fortfarande dominerar användningsområdet, är
-            blockkedjans potential betydligt bredare och kan tillämpas inom en rad andra sektorer. Ett framstående
-            exempel är Smart Contracts, automatiserade avtal som körs direkt på blockkedjan. Dessa kan användas för att
-            effektivisera stora transaktioner, hantera försäkringsutbetalningar, reglera lån, administrera hyresavtal,
-            säkerställa kvalitetskontroller och distribuera royaltybetalningar till konstnärer och musiker. Genom att
-            eliminera behovet av mellanhänder och minska risken för mänskliga fel skapar tekniken både effektivitet och
-            tillförlitlighet. Fastighetsregister, som ofta lider av ineffektivitet och korruption, kan moderniseras
-            genom en transparent och tillförlitlig lösning där äganderätt och transaktioner kan verifieras i realtid.
-          </p>
-          <img src="ellaimages/property.jpg" alt="HTML tutorial" style="width:550px;height:auto;">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Albert+Sans:ital@0;1&display=swap"
+      rel="stylesheet"
+    />
+    <meta charset="UTF-8" />
+    <title>HTML 5 Boilerplate</title>
+    <link rel="stylesheet" href="CSS/style.css" />
+  </head>
+  <body>
+    <header class="top">
+      <nav>
+        <div class="nav-wrapper">
+          <h1>Blockify</h1>
+          <ul class="nav-ul">
+            <li class="nav-top">Hem</li>
+            <li class="nav-intro-section">Om Blockchain</li>
+            <li class="nav-usage-section">Användningsområden</li>
+            <li class="nav-container">Företag</li>
+            <li class="nav-future-section">Framtiden</li>
+          </ul>
+          <button class="nav-top" type="button">Registrera</button>
         </div>
+      </nav>
 
-        <div class="usage-row">
-          <img src="ellaimages/medical.jpg" alt="HTML tutorial" style="width:550px;height:auto;">
-          <p>Blockkedjans decentraliserade och krypterade struktur gör den också idealisk för att hantera känslig
-            information. Medicinska journaler, fastighetsregister, identitetshantering och forskningsdata kan lagras och
-            spåras säkert.Genom att distribuera data över flera noder istället för att förlita sig på en central server
-            minskar risken för dataintrång och manipulation. Varje förändring i blockkedjan kräver konsensus från
-            nätverket, vilket garanterar att informationen förblir oföränderlig och spårbar.Inom medicinsk sektor kan
-            blockkedjan revolutionera hanteringen av journaler genom att möjliggöra säker lagring och delning av
-            patientinformation mellan vårdgivare, samtidigt som patientens integritet skyddas. Forskningsdata kan också
-            dra nytta av blockkedjans funktionalitet genom att säkerställa att data är autentisk, tidsstämplad och
-            tillgänglig för granskning.</p>
-        </div>
+      <section class="signup-form-parent">
+        <h2 class="signup-heading">Registrera</h2>
+        <form class="signup-form">
+          <label class="signup-label" for="namn"
+            ><span> Namn </span>
+            <input name="namn" type="text" id="namn" placeholder="Namn"
+          /></label>
+          <label class="signup-label" for="email"
+            ><span> Email </span>
+            <input name="email" type="email" id="emai" placeholder="Email"
+          /></label>
+          <button class="nav-top" type="submit">Registrera</button>
+        </form>
+      </section>
+    </header>
 
-        <div class="usage-row">
-          <p>Sammantaget erbjuder blockkedjeteknologin ett brett spektrum av möjligheter för att hantera känslig
-            information på ett sätt som är både säkert och effektivt, vilket kan förändra och förbättra en rad olika
-            branscher och samhällsfunktioner. Genom att varje förändring i blockkedjan verifieras med hjälp av unika
-            hashvärden skapas en transparent och oföränderlig historik som garanterar att data är äkta och skyddad mot
-            manipulation. Denna robusta säkerhet och transparens banar väg för innovation inom områden som logistik,
-            finans, sjukvård, utbildning och offentlig förvaltning.Inom logistik möjliggör blockkedjan förbättrad
-            spårbarhet och effektivitet genom att tillhandahålla realtidsinformation om varors rörelser längs hela
-            leveranskedjan. Till exempel kan företag och konsumenter enkelt verifiera var en produkt har tillverkats,
-            hur den transporterats och om den uppfyller hållbarhetsstandarder. </p>
-          <img src="ellaimages/warehouse.jpg" alt="HTML tutorial" style="width:550px;height:auto;">
-        </div>
-      </div>
-    </section>
-
-    <!--Företag-->
-<div class="container">
-  <h2> Företag som använder Blockchain</h2>
-  <div class="grid">
-    <div class="item">
-      <div class="text-box">
-        <p>
-          <strong>Atea</strong> använder blockchain för att skapa transparenta och pålitliga transporter, där data kan användas för att följa en råvara eller produkt från fabrik till slutkonsument.
-          Krav-märkning, Fairtrade, eko mm ska hjälpa konsumenter att göra hållbara val. Men märkningen går inte alltid att lita på. Därför blir blockkedjor ett kraftfullare instrument för en hållbarare livsmedelsbransch. 
-          Atea samarbetar med IBM för att erbjuda Food Trust, en blockchain-lösning anpassad livsmedelsindustrin. Med hjälp av Food Trust möjliggörs en transparent och pålitlig livsmedelskedja där data används för att följa en råvara från jord till bord. Detta minskar matsvinn, säkerställer produktkvalitet och konsumenter kan lita på varornas urpsrung.
-        </p>
-      </div>
-      <!-- <div class="image-box"> -->
-        <img src="assets/ritaimages/foodindustry.jpg" alt="varans blockchain" style="width:250px;height:auto;">
-      <!-- </div> -->
-
-    </div>
-    <div class="item">
-        <div class="text-box">
-          <p>
-            <b>Safello</b> grundades 2013 och är idag Nordens ledande kryptomäklare. Safello erbjuder användare att köpa, sälja och förvara kryptovalutor på ett säkert och enkelt sätt. Safello erbjuder följande tjänster:<br>
-            -	Köp och försäljning av flera kryptovalutor. Användare genomför transaktioner snabbt och smidigt via betaningsmetoder som Swish, Appel Pay och Google Pay<br>
-            -	Säker plånbokstjänst där användare kan lagra sina digitala tillgångar.<br>
-            -	Utbildningsinitiativ. Safello har samarbetat med Medieinstitutet för att utveckla YH-program för blockchainutvecklare och bidrar till att utbilda framtida utvecklare inom blockchainteknik
+    <main>
+      <!-- Image from: https://www.freepik.com/free-vector/gradient-style-nft-concept_14064705.htm#fromView=search&page=1&position=28&uuid=7e52c27d-6ad4-4a2b-aae3-d9a4436852f5 -->
+      <section class="intro-section">
+        <div class="intro-wrapper">
+          <img
+            src="./assets/img/blockchain_illustration.jpg"
+            alt="block som representerar olika produkter som blockchain kan anvnändas till."
+            class="intro-img"
+          />
+          <div class="intro-text">
+            <h2>Vad är blockchain?</h2>
+            <p class="">
+              Blockchain är en decentralicerad digital huvudbok som på ett
+              säkert sätt sparar data utspritt på ett nätvärk av datorer, kallat
+              peers, på ett sätt som gör datan transparent oföränderlig och
+              motståndskraftig mot manipulering. Varje ”block” innehållar data,
+              blocken kopplas sedan ihop i en kronologisk ”kedja”. Blockchain är
+              mest känt för dess viktiga roll inom kryptovalutor men har ävven
+              fler användningsområden.
             </p>
+          </div>
+          <div class="intro-ul-list">
+            <strong>Blockchain kan användas för:</strong>
+            <ul class="intro-ul">
+              <li>Streaming</li>
+              <li>Finans kallat DeFi</li>
+              <li>Sjukvård</li>
+            </ul>
+          </div>
         </div>
-        <!-- <div class="image-box"> -->
-          <img src="assets/ritaimages/blockchain plånbok.webp" alt="digital plånbok" style="width:250px;height:auto;">
-        <!-- </div> -->
-    </div>
-      <div class="item">
-        <div class="text-box">
-          <p>
-            <b>Chromaway</b> är ett svenskt blockchain-företag som utvecklar innovativa lösningar för olika branscher. Deras mest kända produkt, Chromia, är en blockchain-plattform som möjliggör skapandet av decentraliserad applikationer inom spel, datahantering och andra sektorer.
-            Chromaway har utvecklat applikationer inom olika sektorer inklusive bank, leveranskedjor, fastigheter och grön finansiering. Företaget fungerar som en inkubator för nya projekt och företag inom blockchain-området.
-            Chromaway samarbetar med olika branscher, inklusive metaverse och spel, sport, mode, fastighetsregistrering och leveranskedjor, för att implementera blockchain-teknologi i praktiska tillämpningar. 
+      </section>
+
+      <section class="usage-section">
+        <div class="usage-heading">
+          <h3>Blockchain: Användningsområden</h3>
+        </div>
+
+        <div class="usage-wrapper">
+          <div class="usage-row">
+            <p>
+              När man hör ordet ”blockkedja” är det naturligt att associera det
+              med kryptovalutor, eftersom det är den mest välkända tillämpningen
+              av tekniken. Även om kryptovalutor fortfarande dominerar
+              användningsområdet, är blockkedjans potential betydligt bredare
+              och kan tillämpas inom en rad andra sektorer. Ett framstående
+              exempel är Smart Contracts, automatiserade avtal som körs direkt
+              på blockkedjan. Dessa kan användas för att effektivisera stora
+              transaktioner, hantera försäkringsutbetalningar, reglera lån,
+              administrera hyresavtal, säkerställa kvalitetskontroller och
+              distribuera royaltybetalningar till konstnärer och musiker. Genom
+              att eliminera behovet av mellanhänder och minska risken för
+              mänskliga fel skapar tekniken både effektivitet och
+              tillförlitlighet. Fastighetsregister, som ofta lider av
+              ineffektivitet och korruption, kan moderniseras genom en
+              transparent och tillförlitlig lösning där äganderätt och
+              transaktioner kan verifieras i realtid.
+            </p>
+            <img
+              src="ellaimages/property.jpg"
+              alt="HTML tutorial"
+              style="width: 550px; height: auto"
+            />
+          </div>
+
+          <div class="usage-row">
+            <img
+              src="ellaimages/medical.jpg"
+              alt="HTML tutorial"
+              style="width: 550px; height: auto"
+            />
+            <p>
+              Blockkedjans decentraliserade och krypterade struktur gör den
+              också idealisk för att hantera känslig information. Medicinska
+              journaler, fastighetsregister, identitetshantering och
+              forskningsdata kan lagras och spåras säkert.Genom att distribuera
+              data över flera noder istället för att förlita sig på en central
+              server minskar risken för dataintrång och manipulation. Varje
+              förändring i blockkedjan kräver konsensus från nätverket, vilket
+              garanterar att informationen förblir oföränderlig och spårbar.Inom
+              medicinsk sektor kan blockkedjan revolutionera hanteringen av
+              journaler genom att möjliggöra säker lagring och delning av
+              patientinformation mellan vårdgivare, samtidigt som patientens
+              integritet skyddas. Forskningsdata kan också dra nytta av
+              blockkedjans funktionalitet genom att säkerställa att data är
+              autentisk, tidsstämplad och tillgänglig för granskning.
+            </p>
+          </div>
+
+          <div class="usage-row">
+            <p>
+              Sammantaget erbjuder blockkedjeteknologin ett brett spektrum av
+              möjligheter för att hantera känslig information på ett sätt som är
+              både säkert och effektivt, vilket kan förändra och förbättra en
+              rad olika branscher och samhällsfunktioner. Genom att varje
+              förändring i blockkedjan verifieras med hjälp av unika hashvärden
+              skapas en transparent och oföränderlig historik som garanterar att
+              data är äkta och skyddad mot manipulation. Denna robusta säkerhet
+              och transparens banar väg för innovation inom områden som
+              logistik, finans, sjukvård, utbildning och offentlig
+              förvaltning.Inom logistik möjliggör blockkedjan förbättrad
+              spårbarhet och effektivitet genom att tillhandahålla
+              realtidsinformation om varors rörelser längs hela leveranskedjan.
+              Till exempel kan företag och konsumenter enkelt verifiera var en
+              produkt har tillverkats, hur den transporterats och om den
+              uppfyller hållbarhetsstandarder.
+            </p>
+            <img
+              src="ellaimages/warehouse.jpg"
+              alt="HTML tutorial"
+              style="width: 550px; height: auto"
+            />
+          </div>
+        </div>
+      </section>
+
+      <!--Företag-->
+      <section class="container">
+        <h2>Företag som använder Blockchain</h2>
+        <div class="grid">
+          <div class="item">
+            <div class="text-box">
+              <p>
+                <strong>Atea</strong> använder blockchain för att skapa
+                transparenta och pålitliga transporter, där data kan användas
+                för att följa en råvara eller produkt från fabrik till
+                slutkonsument. Krav-märkning, Fairtrade, eko mm ska hjälpa
+                konsumenter att göra hållbara val. Men märkningen går inte
+                alltid att lita på. Därför blir blockkedjor ett kraftfullare
+                instrument för en hållbarare livsmedelsbransch. Atea samarbetar
+                med IBM för att erbjuda Food Trust, en blockchain-lösning
+                anpassad livsmedelsindustrin. Med hjälp av Food Trust möjliggörs
+                en transparent och pålitlig livsmedelskedja där data används för
+                att följa en råvara från jord till bord. Detta minskar matsvinn,
+                säkerställer produktkvalitet och konsumenter kan lita på
+                varornas urpsrung.
+              </p>
+            </div>
+            <div class="image-box">
+              <img src="assets/ritaimages/foodindustry.jpg" />
+            </div>
+          </div>
+          <div class="item">
+            <div class="text-box">
+              <p>
+                <b>Safello</b> grundades 2013 och är idag Nordens ledande
+                kryptomäklare. Safello erbjuder användare att köpa, sälja och
+                förvara kryptovalutor på ett säkert och enkelt sätt. Safello
+                erbjuder följande tjänster:<br />
+                - Köp och försäljning av flera kryptovalutor. Användare genomför
+                transaktioner snabbt och smidigt via betaningsmetoder som Swish,
+                Appel Pay och Google Pay<br />
+                - Säker plånbokstjänst där användare kan lagra sina digitala
+                tillgångar.<br />
+                - Utbildningsinitiativ. Safello har samarbetat med
+                Medieinstitutet för att utveckla YH-program för
+                blockchainutvecklare och bidrar till att utbilda framtida
+                utvecklare inom blockchainteknik
+              </p>
+            </div>
+            <div class="image-box">
+              <img src="assets/ritaimages/blockchain plånbok.webp" />
+            </div>
+          </div>
+          <div class="item">
+            <div class="text-box">
+              <p>
+                <b>Chromaway</b> är ett svenskt blockchain-företag som utvecklar
+                innovativa lösningar för olika branscher. Deras mest kända
+                produkt, Chromia, är en blockchain-plattform som möjliggör
+                skapandet av decentraliserad applikationer inom spel,
+                datahantering och andra sektorer. Chromaway har utvecklat
+                applikationer inom olika sektorer inklusive bank,
+                leveranskedjor, fastigheter och grön finansiering. Företaget
+                fungerar som en inkubator för nya projekt och företag inom
+                blockchain-området. Chromaway samarbetar med olika branscher,
+                inklusive metaverse och spel, sport, mode,
+                fastighetsregistrering och leveranskedjor, för att implementera
+                blockchain-teknologi i praktiska tillämpningar.
+              </p>
+            </div>
+            <div class="image-box">
+              <img src="assets/ritaimages/företag.webp" />
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="future-section">
+        <div class="future-wrapper">
+          <h2 class="rubrik-framtid">Framtiden med blockkedjan</h2>
+          <p class="intro-framtid">
+            Blockkedjetekniken har potential att förändra många industrier genom
+            att skapa säkrare, effektivare och mer transparenta system. Denna
+            decentraliserade teknik möjliggör nya sätt att hantera information,
+            tillgångar och identitet på ett tillförlitligt sätt. Från att
+            förbättra affärsprocesser till att skapa nya digitala möjligheter är
+            blockkedjan en central del av framtidens innovation. Nedan
+            presenteras tre exempel på hur blockkedjan kan användas i framtiden:
+            inom byggindustrin, för digitala identiteter och i spelvärlden.
           </p>
+          <article class="intro-framtid">
+            <p class="text1">
+              Blockchain kan revolutionera byggindustrin genom att förbättra
+              transparens och effektivitet. Genom att lagra projektdata,
+              kontrakt och betalningar i en decentraliserad databas kan man
+              minska risken för korruption och misstag. Till exempel kan
+              blockchain användas för att spåra byggmaterial från produktion
+              till leverans, vilket säkerställer att hållbara och certifierade
+              produkter används. Dessutom kan smarta kontrakt automatisera
+              betalningar och säkerställa att entreprenörer får betalt i rätt
+              tid, vilket skapar trygghet och effektivitet för alla parter.
+              Vidare kan blockchain möjliggöra en säker och transparent
+              hantering av byggprojekts tidslinjer och ansvar, vilket minskar
+              risken för fördröjningar och budgetöverskridanden. Genom att skapa
+              en digital och oföränderlig logg för alla aktiviteter inom ett
+              byggprojekt, från planering till slutförande, kan alla inblandade
+              aktörer, inklusive myndigheter och investerare, följa upp och
+              kontrollera framstegen i realtid. Blockchain skulle även kunna
+              förbättra arbetsflöden genom att automatisera vissa processer och
+              skapa en effektivare kommunikation mellan olika aktörer.
+            </p>
+            <img
+              class="construction"
+              src="niklasimages/construction.jpg"
+              width="400px"
+              height="250px"
+            />
+          </article>
+
+          <article class="intro-framtid">
+            <img
+              class="security"
+              src="niklasimages/security.png"
+              width="400px"
+              height="250px"
+            />
+            <p class="text2">
+              En av de mest lovande tillämpningarna av blockchain är skapandet
+              av digitala och säkra identiteter. Med blockchain kan individer
+              kontrollera och dela sina personliga uppgifter utan att förlita
+              sig på centrala myndigheter eller riskera dataintrång. Detta kan
+              vara revolutionerande för banktjänster, där användare enkelt kan
+              verifiera sin identitet vid lån eller registreringar. Genom att
+              lagra personliga data på en säker och decentraliserad plattform
+              kan användare kontrollera vem som har tillgång till deras
+              information, vilket minskar risken för identitetsstöld och ökar
+              säkerheten. Tekniken kan också hjälpa människor i
+              utvecklingsländer som saknar traditionella ID-handlingar att få en
+              officiell identitet, vilket öppnar upp möjligheter för bättre
+              tillgång till utbildning, sjukvård och arbete. Blockchain kan även
+              bidra till att förenkla internationella transaktioner och hindra
+              bedrägerier genom att säkerställa att alla identitetsdokument är
+              äkta och oföränderliga. Genom att erbjuda användarna ett sätt att
+              autentisera sig själva genom blockchain kan vi skapa ett mer
+              tillförlitligt och effektivt system för både privatpersoner och
+              företag, vilket minskar behovet av föråldrade och sårbara
+              lösningar för identitetsverifiering.
+            </p>
+          </article>
+
+          <article class="intro-framtid">
+            <p class="text1">
+              Spelindustrin har snabbt anammat blockchain för att ge spelare mer
+              kontroll och ägandeskap. Med blockchain kan spelare köpa, sälja
+              och äga unika spelobjekt i form av NFTs (Non-Fungible Tokens),
+              vilket skapar en helt ny ekonomi inom spelvärlden. Dessa digitala
+              objekt, som kan vara allt från vapen och kläder till karaktärer
+              eller nivåer, kan nu handlas på öppna marknadsplatser, vilket ger
+              spelare möjlighet att tjäna pengar på sina in-game tillgångar.
+              Dessutom säkerställer blockchain att digitala tillgångar verkligen
+              tillhör spelarna, även om spelet stängs ner. Tekniken möjliggör
+              också plattformsoberoende transaktioner, vilket gör att spelare
+              kan använda sina tillgångar på olika plattformar och överföra dem
+              mellan spel, vilket tidigare var mycket begränsat. Blockchain gör
+              det också möjligt för utvecklare att skapa spel med inneboende
+              belöningssystem baserade på transparens, där alla transaktioner
+              och prestationer kan spåras och verifieras. Blockchain kan också
+              skapa förtroende i e-sport genom att säkerställa att resultat och
+              vinster är transparenta och oföränderliga, vilket minskar risken
+              för fusk. Den decentraliserade naturen av blockchain kan också ge
+              upphov till spel som inte kontrolleras av ett enda företag, vilket
+              ökar konkurrensen och ger spelare större valfrihet.
+            </p>
+            <img
+              class="gaming"
+              src="niklasimages/gaming.jpg"
+              width="400px"
+              height="250px"
+            />
+          </article>
         </div>
-        <!-- <div class="image-box"> -->
-          <img src="assets/ritaimages/företag.webp" alt="blockchain företag" style="width:250px;height:auto;">
-        <!-- </div> -->
+        <!-- Image from: https://www.freepik.com/free-vector/gradient-style-nft-concept_14064705.htm#fromView=search&page=1&position=28&uuid=7e52c27d-6ad4-4a2b-aae3-d9a4436852f5 -->
+      </section>
+    </main>
+
+    <footer>
+      <div class="footer-wrapper">
+        <div class="footer-list">
+          <h3>Kontakt</h3>
+          <ul class="footer-ul">
+            <li>LinkedIn</li>
+            <li>Discord</li>
+            <li>Telegram</li>
+            <li>Email</li>
+            <li>WhatsApp</li>
+          </ul>
+        </div>
+        <div class="footer-list">
+          <h3>FAQ</h3>
+          <ul class="footer-ul">
+            <li>Vilka är vi?</li>
+            <li>Vad gör vi?</li>
+            <li>Vart sitter vi?</li>
+            <li>Hur går jag med?</li>
+            <li>Kostar det något?</li>
+          </ul>
+        </div>
+        <div class="footer-list">
+          <h3>Investera</h3>
+          <ul class="footer-ul">
+            <li>Bitcoin</li>
+            <li>Ethereum</li>
+            <li>Solana</li>
+            <li>Dogecoin</li>
+            <li>XRP</li>
+          </ul>
+        </div>
       </div>
-    </div>
-</div>
-
-<section class="future-section">
-  <h2 class="rubrik-framtid">Framtiden med blockkedjan</h2>
-  <p class="intro-framtid">Blockkedjetekniken har potential att förändra många industrier genom att skapa säkrare, effektivare och mer transparenta system. Denna decentraliserade teknik möjliggör nya sätt att hantera information, tillgångar och identitet på ett tillförlitligt sätt. Från att förbättra affärsprocesser till att skapa nya digitala möjligheter är blockkedjan en central del av framtidens innovation.
-    Nedan presenteras tre exempel på hur blockkedjan kan användas i framtiden: inom byggindustrin, för digitala identiteter och i spelvärlden.</p>
-  <article class="intro-framtid">
-    <p class="text1"> 
-      Blockchain kan revolutionera byggindustrin genom att förbättra transparens och effektivitet. Genom att lagra projektdata, kontrakt och betalningar i en decentraliserad databas kan man minska risken för korruption och misstag. Till exempel kan blockchain användas för att spåra byggmaterial från produktion till leverans, vilket säkerställer att hållbara och certifierade produkter används. Dessutom kan smarta kontrakt automatisera betalningar och säkerställa att entreprenörer får betalt i rätt tid, vilket skapar trygghet och effektivitet för alla parter. Vidare kan blockchain möjliggöra en säker och transparent hantering av byggprojekts tidslinjer och ansvar, vilket minskar risken för fördröjningar och budgetöverskridanden. Genom att skapa en digital och oföränderlig logg för alla aktiviteter inom ett byggprojekt, från planering till slutförande, kan alla inblandade aktörer, inklusive myndigheter och investerare, följa upp och kontrollera framstegen i realtid. Blockchain skulle även kunna förbättra arbetsflöden genom att automatisera vissa processer och skapa en effektivare kommunikation mellan olika aktörer.
-    </p>
-    <img class="construction" src="niklasimages/construction.jpg" width="400px" height="250px" >
-  </article>
-
-  <article class="intro-framtid">
-    <img class="security" src="niklasimages/security.png" width="400px" height="250px" >
-    <p class="text2"> 
-      En av de mest lovande tillämpningarna av blockchain är skapandet av digitala och säkra identiteter. Med blockchain kan individer kontrollera och dela sina personliga uppgifter utan att förlita sig på centrala myndigheter eller riskera dataintrång. Detta kan vara revolutionerande för banktjänster, där användare enkelt kan verifiera sin identitet vid lån eller registreringar. Genom att lagra personliga data på en säker och decentraliserad plattform kan användare kontrollera vem som har tillgång till deras information, vilket minskar risken för identitetsstöld och ökar säkerheten. Tekniken kan också hjälpa människor i utvecklingsländer som saknar traditionella ID-handlingar att få en officiell identitet, vilket öppnar upp möjligheter för bättre tillgång till utbildning, sjukvård och arbete. Blockchain kan även bidra till att förenkla internationella transaktioner och hindra bedrägerier genom att säkerställa att alla identitetsdokument är äkta och oföränderliga. Genom att erbjuda användarna ett sätt att autentisera sig själva genom blockchain kan vi skapa ett mer tillförlitligt och effektivt system för både privatpersoner och företag, vilket minskar behovet av föråldrade och sårbara lösningar för identitetsverifiering.
-    </p>
-  </article>
-
-  <article class="intro-framtid">
-    <p class="text1"> 
-      Spelindustrin har snabbt anammat blockchain för att ge spelare mer kontroll och ägandeskap. Med blockchain kan spelare köpa, sälja och äga unika spelobjekt i form av NFTs (Non-Fungible Tokens), vilket skapar en helt ny ekonomi inom spelvärlden. Dessa digitala objekt, som kan vara allt från vapen och kläder till karaktärer eller nivåer, kan nu handlas på öppna marknadsplatser, vilket ger spelare möjlighet att tjäna pengar på sina in-game tillgångar. Dessutom säkerställer blockchain att digitala tillgångar verkligen tillhör spelarna, även om spelet stängs ner. Tekniken möjliggör också plattformsoberoende transaktioner, vilket gör att spelare kan använda sina tillgångar på olika plattformar och överföra dem mellan spel, vilket tidigare var mycket begränsat. Blockchain gör det också möjligt för utvecklare att skapa spel med inneboende belöningssystem baserade på transparens, där alla transaktioner och prestationer kan spåras och verifieras. Blockchain kan också skapa förtroende i e-sport genom att säkerställa att resultat och vinster är transparenta och oföränderliga, vilket minskar risken för fusk. Den decentraliserade naturen av blockchain kan också ge upphov till spel som inte kontrolleras av ett enda företag, vilket ökar konkurrensen och ger spelare större valfrihet.
-    </p>
-    <img class="gaming" src="niklasimages/gaming.jpg" width="400px" height="250px" >
-  </article>
-    <!-- Image from: https://www.freepik.com/free-vector/gradient-style-nft-concept_14064705.htm#fromView=search&page=1&position=28&uuid=7e52c27d-6ad4-4a2b-aae3-d9a4436852f5 -->
-  </section>
-</main>
-  
-
-<footer>
-  <div class="footer-wrapper">
-  <div class="footer-list">
-    <h3>Kontakt</h3>
-    <ul class="footer-ul">
-      <li>LinkedIn</li>
-      <li>Discord</li>
-      <li>Telegram</li>
-      <li>Email</li>
-      <li>WhatsApp</li>
-    </ul>
-  </div>
-  <div class="footer-list">
-    <h3>FAQ</h3>
-    <ul class="footer-ul">
-      <li>Vilka är vi?</li>
-      <li>Vad gör vi?</li>
-      <li>Vart sitter vi?</li>
-      <li>Hur går jag med?</li>
-      <li>Kostar det något?</li>
-    </ul>
-  </div>
-  <div class="footer-list">
-    <h3>Investera</h3>
-    <ul class="footer-ul">
-      <li>Bitcoin</li>
-      <li>Ethereum</li>
-      <li>Solana</li>
-      <li>Dogecoin</li>
-      <li>XRP</li>
-    </ul>
-  </div>  </div>
-  <div class="copyright">
-    <p>Finansgatan 75, 755 57 Stockholm</p>
-    <p>Copyright &copy; Blockify 2024</p>
-  </div>
-</footer>
-<script src="script.js"></script>
-</body>
-
+      <div class="copyright">
+        <p>Finansgatan 75, 755 57 Stockholm</p>
+        <p>Copyright &copy; Blockify 2024</p>
+      </div>
+    </footer>
+    <script src="script.js"></script>
+  </body>
 </html>
