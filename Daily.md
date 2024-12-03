@@ -184,6 +184,6 @@ Roadmap:<img width="1302" alt="Skärmavbild 2024-12-03 kl  09 01 56" src="https
 
   <li>Niklas: </li>
   <li>Ella: </li>
-  <li>Melvin: </li>
+  <li>Melvin: Igår arbetade jag med att fixa lite styling på webbsidan. Idag mergade vi in den i main och ska sedan gå vidare till att göra en validering samt ett lighthouse test.</li>
   <li>Rita:</li>
 </ul>
