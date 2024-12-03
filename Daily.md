@@ -175,14 +175,15 @@ Retro #2: <img width="681" alt="Skärmavbild 2024-12-02 kl  09 29 40" src="http
 
 
 <h2>3/12 2024</h2>
-Backlog: 
-Roadmap: 
-Retro #2: 
+Backlog:  <img width="1327" alt="Skärmavbild 2024-12-03 kl  09 01 47" src="https://github.com/user-attachments/assets/8654303f-9ac9-4970-878a-0346977cf4c6">
+Roadmap:<img width="1302" alt="Skärmavbild 2024-12-03 kl  09 01 56" src="https://github.com/user-attachments/assets/b453800f-bbaf-4222-8c3f-554b1de1af62">
+
+
 
 <ul>
 
   <li>Niklas: </li>
-  <li>Ella:  </li>
+  <li>Ella: </li>
   <li>Melvin: </li>
   <li>Rita:</li>
 </ul>
