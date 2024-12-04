@@ -204,7 +204,7 @@ Roadmap:   <img width="1507" alt="Skärmavbild 2024-12-04 kl  09 28 59" src="ht
 
   <li>Ella: Igår gjorde vi våra sista ändringar i projektets kod, mergeade alla öppna branches och löste konflikter som uppstod. Idag ska vi göra en presentation tillsammans och eventuellt öva på den tillsammans.</li> 
 
-  <li>Melvin: Igår mergade vi in våra sista branches i projektet samt gjorde en validering och ett lighthouse test. Vi gjorde därefter några ändringar för att ytterligare förbättra webbsidan. Idag kommer vi att arbeta på en presentation</li> 
+  <li>Melvin: Igår mergade vi in våra sista branches i projektet samt gjorde en validering och ett lighthouse test. Vi gjorde därefter några ändringar för att ytterligare förbättra webbsidan. Idag kommer vi att arbeta på en presentation av projektet.</li> 
 
   <li>Rita:</li> 
 
