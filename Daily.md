@@ -200,7 +200,7 @@ Roadmap:   <img width="1507" alt="Skärmavbild 2024-12-04 kl  09 28 59" src="ht
 
   
 
-  <li>Niklas: </li> 
+  <li>Niklas: Idag jobbade vi på våran presentation. I morgon ska vi presentera vårat projekt. </li> 
 
   <li>Ella: Igår gjorde vi våra sista ändringar i projektets kod, mergeade alla öppna branches och löste konflikter som uppstod. Idag ska vi göra en presentation tillsammans och eventuellt öva på den tillsammans.</li> 
 
