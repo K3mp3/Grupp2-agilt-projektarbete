@@ -170,7 +170,7 @@ Retro #2: <img width="681" alt="Skärmavbild 2024-12-02 kl  09 29 40" src="http
   <li>Niklas: I fredags gjorde jag en scroll-funktion till våran sida, idag mergade vi in den till main. Vi började även mötet med en retro där vi reflekterade över sprint 2. Vi utsåg Ella till ny scrum master denna vecka.</li>
   <li>Ella: I fredags gjorde jag en ny branch där alla bilderna fick en border-radius som matchade varann. Idag så försöker vi mergea min och Niklas pull-request. Vi började mötet med en retro av sprint 2 och utsåg ny scrum master: mig. </li>
   <li>Melvin: I fredags arbetade jag med att uppdatera styling på webbsidan samt lägga in lite hover funktioner. Idag har vi gjort en retro där vi pratade om vad som gick bra och vad som gick mindre bra, valt en ny scrum master. Jag ska idag göra klart styling uppdateringarna för att sedan skapa en pull request för det.</li>
-  <li>Rita:</li>
+  <li>Rita:Ella var scrum master för denna sprint. I fredags gjorde jag alla rubriker i samma stil och korrigerade små visuella fel på min del av sidan. Vi gjorde också en retro på föregående sprint.</li>
 </ul>
 
 
@@ -185,7 +185,7 @@ Roadmap:<img width="1302" alt="Skärmavbild 2024-12-03 kl  09 01 56" src="https
   <li>Niklas: </li>
   <li>Ella: Igår jobbade vi med merge conflicts i olika nya brancher vi gjort för diverse funktioner. Idag ska vi fortstätta på det, sedan köra en första bvalidering och lighthouse-rapport och sedan utgå från den i vad vi måste lösa vidare. </li>
   <li>Melvin: Igår arbetade jag med att fixa lite styling på webbsidan. Idag mergade vi in den i main och ska sedan gå vidare till att göra en validering samt ett lighthouse test.</li>
-  <li>Rita:</li>
+  <li>Rita:Vi jobbade på med att merga conflicts i olika branches. Lighthouse-rapport. Gjorde en validering. Allting sblev bra till slut :)</li>
 </ul>
 
 
