@@ -187,3 +187,48 @@ Roadmap:<img width="1302" alt="Skärmavbild 2024-12-03 kl  09 01 56" src="https
   <li>Melvin: Igår arbetade jag med att fixa lite styling på webbsidan. Idag mergade vi in den i main och ska sedan gå vidare till att göra en validering samt ett lighthouse test.</li>
   <li>Rita:</li>
 </ul>
+
+
+<h2>4/12 2024</h2> 
+
+Backlog:  <img width="1528" alt="Skärmavbild 2024-12-04 kl  09 28 46" src="https://github.com/user-attachments/assets/ba177145-d682-4a22-8813-f461d9a3fcf3">
+
+Roadmap:   <img width="1507" alt="Skärmavbild 2024-12-04 kl  09 28 59" src="https://github.com/user-attachments/assets/67622661-bc56-4e5b-852c-7a21da52aa57">
+
+
+<ul> 
+
+  
+
+  <li>Niklas: </li> 
+
+  <li>Ella: Igår gjorde vi våra sista ändringar i projektets kod, mergeade alla öppna branches och löste konflikter som uppstod. Idag ska vi göra en presentation tillsammans och eventuellt öva på den tillsammans.</li> 
+
+  <li>Melvin: </li> 
+
+  <li>Rita:</li> 
+
+</ul> 
+
+<h2>5/12 2024</h2> 
+
+Backlog:  
+
+Roadmap:  
+
+<ul> 
+
+  
+
+  <li>Niklas: </li> 
+
+  <li>Ella:  </li> 
+
+  <li>Melvin: </li> 
+
+  <li>Rita:</li> 
+
+</ul> 
+
+ 
+ 
