@@ -202,7 +202,7 @@ Roadmap:   <img width="1507" alt="Skärmavbild 2024-12-04 kl  09 28 59" src="ht
 
   <li>Niklas: Idag jobbade vi på våran presentation. I morgon ska vi presentera vårat projekt. </li> 
 
-  <li>Ella: Igår gjorde vi våra sista ändringar i projektets kod, mergeade alla öppna branches och löste konflikter som uppstod. Idag ska vi göra en presentation tillsammans och eventuellt öva på den tillsammans.</li> 
+  <li>Ella: Igår gjorde vi våra sista ändringar i projektets kod, mergeade alla öppna branches och löste konflikter som uppstod. Idag så ska vi sätta ihop en presentation där vi redovisar vårt projekt.</li> 
 
   <li>Melvin: Igår mergade vi in våra sista branches i projektet samt gjorde en validering och ett lighthouse test. Vi gjorde därefter några ändringar för att ytterligare förbättra webbsidan. Idag kommer vi att arbeta på en presentation av projektet.</li> 
 
@@ -212,9 +212,11 @@ Roadmap:   <img width="1507" alt="Skärmavbild 2024-12-04 kl  09 28 59" src="ht
 
 <h2>5/12 2024</h2> 
 
-Backlog:  
+Backlog:  <img width="1347" alt="Skärmavbild 2024-12-05 kl  09 07 09" src="https://github.com/user-attachments/assets/2d7614e4-280e-418f-b6ab-d3aaf5da92bf">
 
-Roadmap:  
+
+Roadmap:  <img width="1557" alt="Skärmavbild 2024-12-05 kl  09 07 17" src="https://github.com/user-attachments/assets/a48c70d9-303d-47df-8b82-5d02c6a24846">
+
 
 <ul> 
 
@@ -222,7 +224,7 @@ Roadmap:
 
   <li>Niklas: </li> 
 
-  <li>Ella:  </li> 
+  <li>Ella: Igår började vi göra vår presentation tillsammans, idag ska vi öva på varsin del som vi skrivit lite manus till. Hejdå!  </li> 
 
   <li>Melvin: </li> 
 
