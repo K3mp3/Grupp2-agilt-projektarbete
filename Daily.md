@@ -226,7 +226,7 @@ Roadmap:  <img width="1557" alt="Skärmavbild 2024-12-05 kl  09 07 17" src="htt
 
   <li>Ella: Igår började vi göra vår presentation tillsammans, idag ska vi öva på varsin del som vi skrivit lite manus till. Hejdå!  </li> 
 
-  <li>Melvin: </li> 
+  <li>Melvin: Igår arbetade vi med att ta fram en presentation för vårt projekt. Idag ska vi presentera den.</li> 
 
   <li>Rita:</li> 
 
